@@ -202,8 +202,7 @@ sections:
       title: Teaching    
       filters:
         folders:
-          - teaching
-        featured_only: true
+          - teaching        
     design:
       columns: '2'
       view: card
