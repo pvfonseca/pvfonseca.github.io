@@ -33,7 +33,7 @@ sections:
           icon_pack: custom
         - name: Statistics          
           icon: chart-scatter
-          icon_pack: fas        
+          icon_pack: fa        
   - block: experience
     content:
       title: Experience
