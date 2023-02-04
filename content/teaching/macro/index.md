@@ -19,9 +19,9 @@ title: Macroeconomia I
 <p align="justify">O objetivo da disciplina é apresentar os princípios básicos da teoria macroeconômica e seus diversos domínios de aplicação. O curso se propõe a familiarizar o estudante com os principais modelos macroeconômicos para determinação do produto de equilíbrio a partir da metodologia de equilíbrio geral, onde são tratadas as interações entre vários mercados, bem como os efeitos da ação do governo, em nível agregado. Isso permitirá o conhecimento dos instrumentos de análise e prescrição de políticas macroeconômicas.</p>
 
 {{% callout note %}}
-> As aulas acontecerão na sala 147 ESAG/UDESC às:
-> - Terças-feiras das 10:15 às 11:55
-> - Quintas-feiras das 08:25 às 10:00
+As aulas acontecerão na sala 147 ESAG/UDESC às:
+- Terças-feiras das 10:15 às 11:55
+- Quintas-feiras das 08:25 às 10:00
 {{% /callout %}}
 
 ## Programa
@@ -34,10 +34,12 @@ title: Macroeconomia I
 
 ## Avaliação
 
-> - Atividade avaliativa I (PI) - 30%
-> - Atividade avaliativa II (PII) - 30%
-> - Atividade avaliativa III (PIII) - 30%
-> - Trabalhos adicionais - 10%
+{{% callout note %}}
+- Atividade avaliativa I (PI) - 30%
+- Atividade avaliativa II (PII) - 30%
+- Atividade avaliativa III (PIII) - 30%
+- Trabalhos adicionais - 10%
+{{% /callout %}}
 
 ## 📚 Bibliografia
 ABEL, A.; BERNANKE, B.; CROUSHORE, D. Macroeconomia. 6.ed. Pearson Prentice Hall, 2008. 
