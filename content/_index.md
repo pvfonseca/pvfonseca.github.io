@@ -213,7 +213,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - teaching
     design:
       columns: '2'
       view: compact
