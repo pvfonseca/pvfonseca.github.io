@@ -16,12 +16,19 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Matlab
+          icon: matlab
+          icon_pack: custom
+        - name: Dynare
+          icon: dynare
+          icon_pack: custom
+        - name: Python
+          icon: python
+          icon_pack: custom 
+        - name: R          
+          icon: r
+          icon_pack: custom
+        - name: Statistics          
           icon: chart-line
           icon_pack: fas
         - name: Julia          
