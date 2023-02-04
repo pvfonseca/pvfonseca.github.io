@@ -3,9 +3,9 @@ categories: []
 date: 2023-02-04
 draft: false
 image:
-  caption: Constrained Optimisation
-  focal_point: Left
-summary: Macroeconomia I
+  caption: "Source: Relatório de Inflação março/2019 - Banco Central do Brasil"
+  focal_point: Smart
+summary: Curso de Macroeconomia I para o terceiro termo da graduação UDESC.
 tags:
 - teaching
 title: Macroeconomia I
