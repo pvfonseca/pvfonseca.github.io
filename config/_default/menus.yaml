@@ -26,8 +26,22 @@ main:
     url: '#contact'
     weight: 50
   - name: Teaching
-    url: '#courses'
+    identifier: courses
+    #url: '#courses'
     weight: 40
-  - name: Macro 1
-    url: '#macroi'
-    weight: 60
+  - name: Microeconomia I
+    parent: courses
+    url: teaching/micro
+    weight: 10
+  - name: Macroeconomia I
+    parent: courses
+    url: teaching/macro
+    weight: 20
+  - name: Métodos Quantitativos I
+    parent: courses
+    url: teaching/metodosquant
+    weight: 30
+  - name: Pensamento Contemporâneo
+    parent: courses
+    url: teaching/pec
+    weight: 40
