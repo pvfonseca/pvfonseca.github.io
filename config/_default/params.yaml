@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Lecturer in Economics at Santa Catarina State University'
+    twitter: 'pvdafonseca'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -67,9 +67,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  repository:
-    #url: 'https://github.com/<username>/<repository>'
-    url: 'https://github.com/pvfonseca/pvfonseca.github.io/'
+  repository:    
+    url: 'https://github.com/pvfonseca/pvfonseca.github.io'
     content_dir: content
     branch: main
   avatar:
