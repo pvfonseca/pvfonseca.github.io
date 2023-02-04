@@ -26,7 +26,7 @@ tags:
 - dynamic games
 - dsge
 - macro
-- 
+
 selected: true
 title: Strategic fiscal and monetary interactions in the Brazilian economy
 url_code: ''

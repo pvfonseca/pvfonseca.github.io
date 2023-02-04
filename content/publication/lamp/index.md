@@ -16,6 +16,17 @@ publication_short: Working Paper
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: true
+
+image:
+    caption: IRFs to a positive markup shock
+    focal_point: Smart
+
+tags:
+- fiscal policy
+- monetary policy
+- dynamic games
+- dsge
+- macro
 title: Optimal monetary and fiscal policy with limited asset markets participation and government debt
 url_code: ''
 url_dataset: ''
