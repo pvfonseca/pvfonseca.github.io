@@ -219,7 +219,7 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: "[Email](mailto:paulovictordafonseca@gmail.com)"
+#       email: "[Email](mailto:paulovictordafonseca@gmail.com)"
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
@@ -234,14 +234,24 @@ sections:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
       contact_links:
+        - icon: envelope
+          icon_pack: fas
+          link: 'mailto:paulovictordafonseca@gmail.com'
         - icon: twitter
           icon_pack: fab
           name: Twitter
           link: 'https://twitter.com/pvdafonseca'
+        - icon: github
+          icon_pack: fab
+          link: https://github.com/pvfonseca
+        - icon: linkedin
+          icon_pack: fab
+          link: https://www.linkedin.com/in/paulo-victor-da-fonseca/
         - icon: skype
           icon_pack: fab
           name: Skype
-          link: 'skype:paulo.victor.da.fonseca?call'        
+          link: 'skype:paulo.victor.da.fonseca?call' 
+        
       # Automatically link email and phone or display as text?
       # autolink: true
       # Email form provider
