@@ -28,3 +28,6 @@ main:
   - name: Teaching
     url: '#courses'
     weight: 40
+  - name: Macro 1
+    url: '#macroi'
+    weight: 60

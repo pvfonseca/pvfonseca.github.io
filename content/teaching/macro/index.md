@@ -9,6 +9,7 @@ summary: Curso de Macroeconomia I para o terceiro termo da graduação UDESC.
 tags:
 - teaching
 title: Macroeconomia I
+id: macroi
 ---
 ## Ementa
 
