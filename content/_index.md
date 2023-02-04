@@ -32,8 +32,8 @@ sections:
           icon: r
           icon_pack: custom
         - name: Statistics          
-          icon: chart-scatter
-          icon_pack: fa        
+          icon: chart-line
+          icon_pack: fas        
   - block: experience
     content:
       title: Experience
