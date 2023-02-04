@@ -18,10 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Lecturer in Economics at Santa Catarina State University'
+    description: 'Personal webpage: Paulo Victor da Fonseca, Lecturer in Economics at Santa Catarina State University'
     twitter: 'pvdafonseca'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-802P1RGBJ6'
+    google_tag_manager: 'G-802P1RGBJ6'
     baidu_tongji: ''
   verification:
     google: ''
