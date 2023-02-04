@@ -24,8 +24,7 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Julia          
           icon: julia
           icon_pack: custom
   - block: experience
