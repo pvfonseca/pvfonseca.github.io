@@ -15,6 +15,18 @@ publication_short: Working Paper
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
+
+image:
+    caption: Time series - Brazilian data
+    focal_point: Smart
+
+tags:
+- fiscal policy
+- monetary policy
+- dynamic games
+- dsge
+- macro
+- 
 selected: true
 title: Strategic fiscal and monetary interactions in the Brazilian economy
 url_code: ''
