@@ -15,13 +15,11 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;p align="justify">O objetivo da disciplina é apresentar os princípios básicos da teoria macroeconômica e seus diversos domínios de aplicação. O curso se propõe a familiarizar o estudante com os principais modelos macroeconômicos para determinação do produto de equilíbrio a partir da metodologia de equilíbrio geral, onde são tratadas as interações entre vários mercados, bem como os efeitos da ação do governo, em nível agregado. Isso permitirá o conhecimento dos instrumentos de análise e prescrição de políticas macroeconômicas.&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
 &lt;p>As aulas acontecerão na sala 147 ESAG/UDESC às:&lt;/p>
 &lt;ul>
 &lt;li>Terças-feiras das 10:15 às 11:55&lt;/li>
 &lt;li>Quintas-feiras das 08:25 às 10:00&lt;/li>
 &lt;/ul>
-&lt;/blockquote>
 &lt;/div>
 &lt;/div>
 &lt;h2 id="programa">Programa&lt;/h2>
@@ -33,14 +31,16 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>Políticas macroeconômicas convencionais.&lt;/li>
 &lt;/ul>
 &lt;h2 id="avaliação">Avaliação&lt;/h2>
-&lt;blockquote>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;ul>
 &lt;li>Atividade avaliativa I (PI) - 30%&lt;/li>
 &lt;li>Atividade avaliativa II (PII) - 30%&lt;/li>
 &lt;li>Atividade avaliativa III (PIII) - 30%&lt;/li>
 &lt;li>Trabalhos adicionais - 10%&lt;/li>
 &lt;/ul>
-&lt;/blockquote>
+&lt;/div>
+&lt;/div>
 &lt;h2 id="-bibliografia">📚 Bibliografia&lt;/h2>
 &lt;p>ABEL, A.; BERNANKE, B.; CROUSHORE, D. Macroeconomia. 6.ed. Pearson Prentice Hall, 2008.&lt;/p>
 &lt;p>ALEM, A. Macroeconomia: teoria e prática no Brasil. 2.ed. Rio de Janeiro: Elsevier, 2018. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/books/9788595152083" target="_blank" rel="noopener">app.minhabiblioteca.com.br/books/9788595152083&lt;/a>&lt;/p>
@@ -200,7 +200,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-156392487" class="chart">&lt;/div>
+&lt;div id="chart-412735869" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -209,7 +209,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-156392487', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-412735869', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
