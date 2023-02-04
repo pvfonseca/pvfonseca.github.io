@@ -223,7 +223,7 @@ sections:
       # appointment_url: 'https://calendly.com'
       address:
         # street: 450 Serra Mall
-        city: Florian\'{o}polis
+        city: Florianópolis
         region: SC
         # postcode: '94305'
         country: Brazil
@@ -235,16 +235,12 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+          name: Twitter
+          link: 'https://twitter.com/pvdafonseca'
         - icon: skype
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: Skype
+          link: 'skype:echo123?call'        
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
