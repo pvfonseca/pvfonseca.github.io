@@ -9,7 +9,7 @@ summary: Curso de Métodos Quantitativos em Economia I para o terceiro termo da 
 tags:
 - teaching
 title: Métodos Quantitativos em Economia I
-url_project: 'uploads/aula01.html'
+url_project: "uploads/aula01.html"
 ---
 
 {{% callout note %}}
