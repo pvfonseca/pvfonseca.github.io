@@ -26,8 +26,8 @@ sections:
           icon_pack: fas
         - name: Photography
           description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon: julia
+          icon_pack: custom
   - block: experience
     content:
       title: Experience
