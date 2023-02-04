@@ -1,41 +1,21 @@
 ---
-abstract: <p align="justify">Building on a standard New Keynesian model, the model economy is augmented to incorporate the government's budget constraint - where public expenditures are financed by distortionary taxation and/or issuing of long-term debt - and the existence of limited asset markets participation. Without the ability to commit to an optimal plan, discretionary policies in the presence of government debt yield a state-dependent inflationary bias problem and also create a debt stabilization bias. Moreover, the presence of limited asset markets participation deepens the distortions in the economy. As a result, the share's size of of liquidity constrained agents impacts the long-run equilibrium values of relevant macroeconomic variables. Furthermore, the optimal response to shocks can be radically different for distinct levels of government debt and fraction of rule-of-thumb consumers. Finally, higher levels of public debt causes a redistribution effect leading to rises in steady state inequalities among agents.</p>
-authors:
-- admin
-date: '2020-08-24'
-header: {}
-highlight: false
-image_preview: ''
-math: false
-projects: []
-publication: Working Paper
-publication_short: Working Paper
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
-selected: true
-
+categories: []
+date: 2019-01-12 11:48:47+01:00
+draft: false
 image:
-    caption: IRFs to a positive markup shock
-    focal_point: Smart
-
+  caption: Test image
+  focal_point: smart
+summary: Microeconomia I
 tags:
-- fiscal policy
-- monetary policy
-- dynamic games
-- dsge
-- macro
-title: Optimal monetary and fiscal policy with limited asset markets participation and government debt
-url_code: ''
-url_dataset: ''
-url_pdf: /pdf/paper_paulo.pdf
-url_poster: ''
-url_preprint: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+- teaching
+title: MicroI
 ---
+This is a graduate level course in Computational Economics. We cover a series of widely used computational techniques both in theory and in practice. The course relies on the [julia](https://julialang.org) language for technical computing, and we use online material from [quantecon](https://quantecon.org) extensively. Additional to this excellent material, the main value added from the course are the homeworks, which come with fully worked solutions!
 
+## Materials
+
+* The entire course material is on the website Numerical Methods
+
+### GPU computing tutorial
+
+* Here is a tutorial on {{% staticref "html/vfi.html" "newtab" %}}GPU computing with julia{{% /staticref %}}.
