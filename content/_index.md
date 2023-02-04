@@ -197,7 +197,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: teaching
+    id: courses
     content:
       title: Teaching    
       filters:
