@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1675476771 "c:/Users/paulo/Documents/website/pvfonseca.github.io/static/uploads/resume.tex" "resume.pdf" "resume" 1675476783
+["lualatex"] 1675539329 "c:/Users/paulo/Documents/website/pvfonseca.github.io/static/uploads/resume.tex" "resume.pdf" "resume" 1675539341
   "C:/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/fontawesome5brands-regular-400.luc" 1675456104 180482 7a8796e6b82767c1851af84efcb2d7c5 ""
   "C:/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/fontawesome5free-solid-900.luc" 1675456103 380932 53543e60191c7e0cd45bc12fdefb5bd7 ""
   "C:/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/latinmodern-math.luc" 1675456141 637076 1cc88e76a2abd4b0ae66e16db3e03d2c ""
@@ -36,7 +36,7 @@
   "C:/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-semibold.luc" 1675456122 700400 23026a8d420f23f5b881ba4b40dcf4e6 ""
   "C:/texlive/2021/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-semiboldit.luc" 1675456124 439918 66dc71d672abeaa3703d41dafa669e89 ""
   "C:/texlive/2021/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1675127042 254313 2e8e0322039fade0482aaaee549fc1fa ""
-  "c:/Users/paulo/Documents/website/pvfonseca.github.io/static/uploads/resume.tex" 1675476734 3503 9befe30aec6c9c42bd9c8a9cec579cf7 ""
+  "c:/Users/paulo/Documents/website/pvfonseca.github.io/static/uploads/resume.tex" 1675539322 3487 a05f48fa91692e430db99989268603fd ""
   "c:/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf" 1648108395 298076 80ce97244540da2d0d07e09c6a4488ef ""
   "c:/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf" 1648108395 290464 8bb0aec8e75b3758fd4a618f79da8d36 ""
   "c:/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf" 1648108395 204752 e0d1f4d4be9ea40ec2e632c1080c8b4f ""
@@ -273,8 +273,8 @@
   "cv/references.tex" 1675476734 2199 07b252d4c9f135106a1f04a29e6d789f ""
   "cv/skills.tex" 1675476734 1108 ca574e360caf112de84349f29132af7f ""
   "cv/summary.tex" 1675476734 664 0078c353f2a8c362cdfa91154c9531c4 ""
-  "resume.aux" 1675476782 717 67a525f205b85181e4e9a305315ae66d "lualatex"
-  "resume.tex" 1675476734 3503 9befe30aec6c9c42bd9c8a9cec579cf7 ""
+  "resume.aux" 1675539340 717 67a525f205b85181e4e9a305315ae66d "lualatex"
+  "resume.tex" 1675539322 3487 a05f48fa91692e430db99989268603fd ""
   "russell.cls" 1675476734 28409 1ba956fd8536b64fb95d50501cad0c8b ""
   (generated)
   "resume.aux"
