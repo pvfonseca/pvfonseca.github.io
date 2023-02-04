@@ -236,6 +236,7 @@ sections:
       contact_links:
         - icon: envelope
           icon_pack: fas
+          name: E-mail
           link: 'mailto:paulovictordafonseca@gmail.com'
         - icon: twitter
           icon_pack: fab
@@ -243,9 +244,11 @@ sections:
           link: 'https://twitter.com/pvdafonseca'
         - icon: github
           icon_pack: fab
+          name: GitHub Profile
           link: https://github.com/pvfonseca
         - icon: linkedin
           icon_pack: fab
+          name: LinkedIn
           link: https://www.linkedin.com/in/paulo-victor-da-fonseca/
         - icon: skype
           icon_pack: fab
