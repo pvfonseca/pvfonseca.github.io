@@ -28,6 +28,7 @@ marketing:
     google: ''
     baidu: ''
 
+{{ template "_internal/twitter_cards.html" . }}
 # Site header
 
 header:
