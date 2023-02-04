@@ -1,7 +1,7 @@
 ---
 abstract: <p align="justify">This paper identifies the leadership structure of the game played by monetary and fiscal authorities in the Brazilian economy after the implementation of inflation targeting regime in 1999. A stylized small-scale New Keynesian model augmented with fiscal policy is estimated using Bayesian methods. I assume that monetary and fiscal authorities can act strategically under discretion in a non-cooperative setup and compare three different forms of games (i) simultaneous move; (ii) fiscal leadership; and (iii) monetary leadership. I find strong empirical support for the hypothesis that the Brazilian fiscal authority acts as a Stackelberg leader. The results obtained can shed some light on the improvement of policy design in the Brazilian economy.</p>
 authors:
-- Paulo da Fonseca
+- admin
 date: '2020-05-25'
 header: {}
 highlight: false
@@ -42,4 +42,4 @@ url_video: ''
 
 ### Status
 
-_Submitted to Revista Brasileira de Economia - Brazilian Review of Economics_ 💪
+_Submitted to Revista Brasileira de Economia - Brazilian Review of Economics_
