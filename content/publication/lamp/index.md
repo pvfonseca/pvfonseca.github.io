@@ -1,7 +1,7 @@
 ---
 abstract: <p align="justify">Building on a standard New Keynesian model, the model economy is augmented to incorporate the government's budget constraint - where public expenditures are financed by distortionary taxation and/or issuing of long-term debt - and the existence of limited asset markets participation. Without the ability to commit to an optimal plan, discretionary policies in the presence of government debt yield a state-dependent inflationary bias problem and also create a debt stabilization bias. Moreover, the presence of limited asset markets participation deepens the distortions in the economy. As a result, the share's size of of liquidity constrained agents impacts the long-run equilibrium values of relevant macroeconomic variables. Furthermore, the optimal response to shocks can be radically different for distinct levels of government debt and fraction of rule-of-thumb consumers. Finally, higher levels of public debt causes a redistribution effect leading to rises in steady state inequalities among agents.</p>
 authors:
-- Paulo da Fonseca
+- admin
 date: '2020-08-24'
 header: {}
 highlight: false

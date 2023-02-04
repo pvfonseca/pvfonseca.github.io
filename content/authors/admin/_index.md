@@ -18,7 +18,7 @@ organizations:
     url: https://udesc.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in Macroeconomics; Fiscal policy and monetary policy and its interactions; Dynamic stochastic general equilibrium (DSGE) models; Heterogeneous agents New Keynesian models; Agent-based modeling.
+bio: I'm interested in Macro; Fiscal and monetary policy interactions; DSGE models; Heterogeneous agents New Keynesian models; Agent-based modeling and Computational Methods.
 
 # Interests to show in About widget
 interests:
@@ -27,6 +27,7 @@ interests:
   - Dynamic stochastic general equilibrium (DSGE) models
   - Heterogeneous agents New Keynesian models
   - Agent-based modeling
+  - Computational methods
 
 # Education to show in About widget
 education:
@@ -75,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a Lecturer in Economics at [Santa Catarina State University](https://udesc.br/), Brazil. My research interests are in Macroeconomics; Fiscal policy and monetary policy and its interactions; Dynamic stochastic general equilibrium (DSGE) models; Heterogeneous agents New Keynesian models; Agent-based modeling.
+I am a Lecturer in Economics at [Santa Catarina State University](https://udesc.br/), Brazil. My research interests are in Macroeconomics; Fiscal policy and monetary policy and its interactions; Dynamic stochastic general equilibrium (DSGE) models; Heterogeneous agents New Keynesian models; Agent-based modeling and Computational methods.
 {style="text-align: justify;"}

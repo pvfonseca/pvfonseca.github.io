@@ -1,7 +1,7 @@
 ---
 abstract: <p align="justify">This paper addresses the state dependencies in strategic interactions between an inflation conservative central bank and a benevolent fiscal authority. Building on a standard New Keynesian model extended to include fiscal policy and nominal government debt, I consider the effects of independent, discretionary and possibly non-cooperative policymakers, rather than joint optimal policies. The main contribution of this work is solving for the discretionary equilibrium of the policy games using nonlinear global solution techniques. I found that under a fiscal leadership policy game, delegating monetary policy to a conservative authority can function as a device for fiscal discipline and reduces both stabilization and level inflationary biases. The consequences in terms of welfare losses are mostly harmless in this case. Nonetheless, in comparison to the cooperative setup, a simultaneous move policy game not only increases the gap between actual inflation and its target rate but is also associated with higher welfare losses. These losses are an increasing function of the degree of monetary conservatism.</p>
 authors:
-- Paulo da Fonseca
+- admin
 date: '2020-03-27'
 header: {}
 highlight: false
