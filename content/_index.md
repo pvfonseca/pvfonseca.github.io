@@ -16,6 +16,9 @@ sections:
     content:
       title: Skills
       items:
+        - name: Julia          
+          icon: julia
+          icon_pack: custom
         - name: Matlab
           icon: matlab
           icon_pack: custom
@@ -29,11 +32,8 @@ sections:
           icon: r
           icon_pack: custom
         - name: Statistics          
-          icon: chart-line
-          icon_pack: fas
-        - name: Julia          
-          icon: julia
-          icon_pack: custom
+          icon: chart-scatter
+          icon_pack: fas        
   - block: experience
     content:
       title: Experience
