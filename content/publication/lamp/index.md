@@ -8,8 +8,8 @@ highlight: false
 image_preview: ''
 math: false
 projects: []
-publication: working paper
-publication_short: working paper
+publication: Working Paper
+publication_short: Working Paper
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -21,7 +21,7 @@ url_code: ''
 url_dataset: ''
 url_pdf: /pdf/paper_paulo.pdf
 url_poster: ''
-url_preprint: 'https://drive.google.com/file/d/1v5R1BNSUvqI5BMQdX2LeL7WBVAfR1Bhr/view'
+url_preprint: ''
 url_project: ''
 url_slides: ''
 url_source: ''
