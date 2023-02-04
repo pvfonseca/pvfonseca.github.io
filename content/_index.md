@@ -195,7 +195,18 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation    
+      view: citation
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching    
+      filters:
+        folders:
+          - teaching
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   # - block: collection
   #   id: talks
   #   content:
