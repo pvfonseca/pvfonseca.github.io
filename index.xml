@@ -52,7 +52,12 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;p>LOPES, L.M.; VASCONCELLOS, M.A.S. Manual de Macroeconomia: Nível básico e nível intermediário. 3.ed. São Paulo: Atlas, 2008.&lt;/p>
 &lt;p>MANKIW, G. Macroeconomia. 8.ed. Rio de Janeiro: LTC, 2018. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/reader/books/978-85-216-2749-4/" target="_blank" rel="noopener">app.minhabiblioteca.com.br/reader/books/978-85-216-2749-4&lt;/a>&lt;/p>
 &lt;p>SCARTH, W.M. Macroeconomics: An introduction to advanced methods. Toronto: Harcourt Brace Jovanovich Canada Inc., 1988. (Tradução: Sergio da Silva).&lt;/p>
-&lt;p>SIMONSEN, M.H.; CYSNE, R.B. Macroeconomia. 4.ed. São Paulo: Atlas, 2009. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/reader/books/9788522465330" target="_blank" rel="noopener">app.minhabiblioteca.com.br/reader/books/9788522465330&lt;/a>&lt;/p></description></item><item><title>Métodos Quantitativos em Economia I</title><link>https://pvfonseca.github.io/teaching/metodosquant/</link><pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/metodosquant/</guid><description>&lt;h2 id="ementa">Ementa&lt;/h2>
+&lt;p>SIMONSEN, M.H.; CYSNE, R.B. Macroeconomia. 4.ed. São Paulo: Atlas, 2009. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/reader/books/9788522465330" target="_blank" rel="noopener">app.minhabiblioteca.com.br/reader/books/9788522465330&lt;/a>&lt;/p></description></item><item><title>Métodos Quantitativos em Economia I</title><link>https://pvfonseca.github.io/teaching/metodosquant/</link><pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/metodosquant/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Materiais adicionais do curso serão disponibilizados, em breve, no website da disciplina.
+&lt;/div>
+&lt;/div>
+&lt;h2 id="ementa">Ementa&lt;/h2>
 &lt;p align="justify">Condições de 1ª e 2ª ordens para máximos e mínimos irrestritos. Aplicações econômicas de otimização irrestrita. Condições de 1ª ordem para otimização condicionada com restrições de igualdade e desigualdade. Método dos multiplicadores de Lagrange e de Kuhn Tucker. Condições de 2ª ordem para otimização condicionada com restrições de igualdade e desigualdade. Interpretação dos multiplicadores em problemas de otimização. Teorema do envelope. Funções homogêneas, homotéticas, côncavas e quase côncavas. Aplicações econômicas dos problemas de otimização relacionados à maximização de utilidade e demanda maximização de lucros, custos, ótimo de Pareto e teoremas fundamentais de bem-estar. Programação linear.&lt;/p>
 &lt;h2 id="objetivo">Objetivo&lt;/h2>
 &lt;p align="justify">O objetivo da disciplina é apresentar aos alunos as principais técnicas de otimização estática, bem como suas principais aplicações em Economia. Ao final do curso espera-se que o aluno seja capaz de utilizar o ferramental desenvolvido na disciplina em aplicações à Teoria Econômica (microeconomia, macroeconomia e disciplinas correlatas).&lt;/p>
@@ -324,7 +329,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-971485236" class="chart">&lt;/div>
+&lt;div id="chart-465392781" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -333,7 +338,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-971485236', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-465392781', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
