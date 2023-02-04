@@ -16,14 +16,4 @@
 &lt;li>Atividade avaliativa II (PII) - 30%&lt;/li>
 &lt;li>Atividade avaliativa III (PIII) - 30%&lt;/li>
 &lt;li>Trabalhos adicionais - 10%&lt;/li>
-&lt;/ul></description></item><item><title>MicroI</title><link>https://pvfonseca.github.io/teaching/micro/</link><pubDate>Sat, 12 Jan 2019 11:48:47 +0100</pubDate><guid>https://pvfonseca.github.io/teaching/micro/</guid><description>&lt;p>This is a graduate level course in Computational Economics. We cover a series of widely used computational techniques both in theory and in practice. The course relies on the &lt;a href="https://julialang.org" target="_blank" rel="noopener">julia&lt;/a> language for technical computing, and we use online material from &lt;a href="https://quantecon.org" target="_blank" rel="noopener">quantecon&lt;/a> extensively. Additional to this excellent material, the main value added from the course are the homeworks, which come with fully worked solutions!&lt;/p>
-&lt;h2 id="materials">Materials&lt;/h2>
-&lt;ul>
-&lt;li>The entire course material is on the website Numerical Methods&lt;/li>
-&lt;/ul>
-&lt;h3 id="gpu-computing-tutorial">GPU computing tutorial&lt;/h3>
-&lt;ul>
-&lt;li>Here is a tutorial on&lt;/li>
-&lt;/ul>
-&lt;p>&lt;a href="https://pvfonseca.github.io/html/vfi.html" target="_blank">GPU computing with julia&lt;/a>
-.&lt;/p></description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>
