@@ -27,7 +27,7 @@ main:
     weight: 50
   - name: Teaching
     identifier: courses
-    #url: '#courses'
+    url: '#courses'
     weight: 40
   - name: Microeconomia I
     parent: courses
