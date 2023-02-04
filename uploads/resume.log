@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021/W32TeX)  (format=lualatex 2022.3.24)  3 FEB 2023 23:12
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021/W32TeX)  (format=lualatex 2022.3.24)  4 FEB 2023 16:35
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/paulo/Documents/website/pvfonseca.github.io/static/uploads/resume.tex
@@ -861,17 +861,17 @@ Overfull \hbox (16.67882pt too wide) in alignment at lines 9--30
 Here is how much of LuaTeX's memory you used:
  36060 strings out of 477800
  156364,1373583 words of node,token memory allocated
- 645 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 82 glue_spec, 8 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1746,3:646,4:491,5:1753,6:259,7:12470,8:46,9:1415,10:17,11:951
+ 655 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 9 attribute, 82 glue_spec, 9 attribute_list, 2 write, 1 pdf_action nodes
+   avail lists: 1:1,2:1745,3:646,4:490,5:1753,6:258,7:12408,8:47,9:1415,10:18,11:951
  55546 multiletter control sequences out of 65536+600000
- 125 fonts using 25861375 bytes
+ 125 fonts using 25861311 bytes
  114i,12n,124p,1260b,1110s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularIt.otf><c:/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><c:/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf><c:/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf><c:/texlive/2021/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf><c:/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf><c:/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf><c:/texlive/2021/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf><c:/texlive/2021/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf>
-Output written on resume.pdf (3 pages, 57417 bytes).
+Output written on resume.pdf (3 pages, 57449 bytes).
 
-PDF statistics: 114 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+PDF statistics: 115 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
