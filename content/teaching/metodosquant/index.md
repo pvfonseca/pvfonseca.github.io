@@ -55,6 +55,16 @@ Materiais adicionais do curso serão disponibilizados, em breve, no website da d
 | :--- | :---: | :---: |
 | Apresentação da disciplina | [HTML](https://raw.githack.com/pvfonseca/pvfonseca.github.io/main/static/html/mqe_aula01.html) | |
 
+{{< math >}}
+\begin{table}[]
+\begin{tabular}{|l|c|l|}
+\hline
+Tópico                     & Notebook & Slides \\ \hline
+Apresentação da disciplina & HTML     &        \\ \hline
+\end{tabular}
+\end{table}
+{{ < /math >}}
+
 % {{% staticref "html/mqe_aula01.html" %}} HTML {{% /staticref %}}
 ## 📚 Bibliografia
 
