@@ -54,6 +54,7 @@ sections:
         - title: Visiting Scholar
           company: Università degli Studi di Milano‐Bicocca
           company_url: 'https://www.unimib.it'
+          company_logo: unimib-logo
           location: Milan, Italy
           date_start: '2018-09-01'
           date_end: '2019-03-30'
