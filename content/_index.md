@@ -85,7 +85,7 @@ sections:
          - title: PhD in Economics
            company: Federal University of Santa Catarina
            company_url: 'https://ufsc.br'
-           company_logo: ufsc-logo
+           company_logo: ''
            date_end: '2020-03-20'
            date_start: '2016-03-03'
            description: |2-
