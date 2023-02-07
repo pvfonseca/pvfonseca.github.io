@@ -50,12 +50,7 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 Materiais adicionais do curso serão disponibilizados, em breve, no website da disciplina.
 {{% /callout %}}
 
-
-| **Tópico** | **Notebook** | **Slides** |
-| :---   |   :---:   |    :---:     |
-| Apresentação da disciplina | [HTML](https://raw.githack.com/pvfonseca/pvfonseca.github.io/main/static/html/mqe_aula01.html) | |
-
-% {{% staticref "html/mqe_aula01.html" %}} HTML {{% /staticref %}}
+% {{% staticref "html/mqe_aula01.html" %}} 🔵 Aula 1: Apresentação da Disciplina {{% /staticref %}}
 ## 📚 Bibliografia
 
 CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.
