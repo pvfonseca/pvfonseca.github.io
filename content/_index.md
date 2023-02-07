@@ -34,31 +34,31 @@ sections:
         - name: Statistics          
           icon: chart-line
           icon_pack: fas              
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
+   - block: experience
+     content:
+       title: Education
+       # Date format for experience
+       #   Refer to https://wowchemy.com/docs/customization/#date-format
+       date_format: Jan 2006
+       # Experiences.
+       #   Add/remove as many `experience` items below as you like.
+       #   Required fields are `title`, `company`, and `date_start`.
+       #   Leave `date_end` empty if it's your current employer.
+       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+       items:
+         - title: PhD in Economics
+           company: Federal University of Santa Catarina
+           company_url: 'https://ufsc.br'
+           company_logo: ufsc-logo
+           location: Florianópolis, Brazil
+           date_start: '2016-03-03'
+           date_end: '2020-03-03'
+           description: |2-  
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
+               * Thesis: ["Three essays on monetary and fiscal policy interactions"](https://repositorio.ufsc.br/handle/123456789/216729)
+               * Supervisors: Prof. Jaylson Jair da Silveira and Prof. Guilherme Valle Moura
+               * Scholarship: Coordination for the Improvement of Higher Education Personnel (CAPES) – Brazilian federal government agency
+               * Overall GPA: 3.87/4.0
   #       - title: Professor of Semiconductor Physics
   #         company: University X
   #         company_url: ''
