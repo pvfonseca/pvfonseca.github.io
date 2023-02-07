@@ -47,7 +47,7 @@ sections:
           date_end: '2020-03-20'
           description: |2-
               * **Thesis**: [Three essays on monetary and fiscal policy interactions](https://repositorio.ufsc.br/handle/123456789/216729)
-              * **Supervisors**: Prof. Jaylson Jair da Silveira and Prof. Guilherme Valle Moura
+              * **Supervisors**: [Jaylson Jair da Silveira](https://scholar.google.com/citations?user=EnUdUWgAAAAJ&hl=en) and [Guilherme Valle Moura](https://scholar.google.com.br/citations?user=OrhztjIAAAAJ&hl=en)
               * **Scholarship**: Coordination for the Improvement of Higher Education Personnel (CAPES) – Brazilian federal government agency
               * **Overall GPA**: 3.87/4.0
         - title: Visiting Scholar
@@ -57,7 +57,7 @@ sections:
           date_start: '2018-09-01'
           date_end: '2019-03-30'
           description: |2-
-              * **Supervisor**: Prof. Alice Albonico
+              * **Supervisor**: [Alice Albonico](https://sites.google.com/view/alice-albonico)
               * **Scholarship**: Sandwich Doctorate ‐ Coordination for the Improvement of Higher Education Personnel (CAPES)
         - title: MSc. in Economics          
           company: Federal University of Santa Catarina
@@ -67,7 +67,7 @@ sections:
           date_end: '2015-03-20'
           description: |2-
               * **Thesis**: [Extração de esforço de trabalho e diferenciais de salários em um ambiente macrodinâmico clássico](https://tede.ufsc.br/teses/PCNM0276-D.pdf)
-              * **Supervisor**: Prof. Jaylson Jair da Silveira
+              * **Supervisor**: [Jaylson Jair da Silveira](https://scholar.google.com/citations?user=EnUdUWgAAAAJ&hl=en)
               * **Scholarship**: National Council for Scientific and Technological Development (CNPq) – Brazilian federal government agency
               * **Overall GPA**: 3.76/4.0
     design:
