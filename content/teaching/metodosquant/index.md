@@ -50,9 +50,11 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 Materiais adicionais do curso serão disponibilizados, em breve, no website da disciplina.
 {{% /callout %}}
 
-| Tópico                     | Notebook                                                            | Slides |
-|----------------------------|---------------------------------------------------------------------|--------|
-| Apresentação da disciplina | {{% staticref "uploads/mqe_aula01.html" %}} HTML {{% /staticref %}} |        |
+{{% table %}}
+| Tópico                     | Notebook                                                         | Slides |
+|----------------------------|------------------------------------------------------------------|--------|
+| Apresentação da disciplina | {{% staticref "html/mqe_aula01.html" %}} HTML {{% /staticref %}} |        |
+{{% /table %}}
 
 ## 📚 Bibliografia
 
