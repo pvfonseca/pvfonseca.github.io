@@ -97,19 +97,20 @@ Materiais adicionais do curso serão disponibilizados, em breve, no website da d
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Tópico&lt;/th>
+&lt;th style="text-align:left">Tópico&lt;/th>
 &lt;th>Notebook&lt;/th>
 &lt;th>Slides&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Apresentação da disciplina&lt;/td>
+&lt;td style="text-align:left">Apresentação da disciplina&lt;/td>
 &lt;td>&lt;a href="https://raw.githack.com/pvfonseca/pvfonseca.github.io/main/static/html/mqe_aula01.html" target="_blank" rel="noopener">HTML&lt;/a>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;p>%&lt;/p>
 &lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula01.html"> HTML &lt;/a>&lt;/p>
 &lt;h2 id="-bibliografia">📚 Bibliografia&lt;/h2>
 &lt;p>CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.&lt;/p>
