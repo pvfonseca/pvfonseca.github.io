@@ -53,8 +53,9 @@ Materiais adicionais do curso serão disponibilizados, em breve, no website da d
 
 | Tópico                     | Notebook                                                         | Slides |
 |----------------------------|------------------------------------------------------------------|--------|
-| Apresentação da disciplina | {{% staticref "html/mqe_aula01.html" %}} HTML {{% /staticref %}} |        |
+| Apresentação da disciplina | Teste |        |
 
+{{% staticref "html/mqe_aula01.html" %}} HTML {{% /staticref %}}
 ## 📚 Bibliografia
 
 CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.
