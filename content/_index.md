@@ -41,7 +41,8 @@ sections:
       items:
         - title: PhD in Economics          
           company: Federal University of Santa Catarina               
-          company_url: 'https://ufsc.br'                    
+          company_url: 'https://ufsc.br' 
+          company_logo: ufsc-logo                   
           location: Florianópolis, Brazil
           date_start: '2016-03-01'
           date_end: '2020-03-20'
@@ -62,6 +63,7 @@ sections:
         - title: MSc. in Economics          
           company: Federal University of Santa Catarina
           company_url: 'https://ufsc.br'          
+          company_logo: ufsc-logo
           location: Florianópolis, Brazil
           date_start: '2013-03-01'
           date_end: '2015-03-20'
@@ -73,6 +75,7 @@ sections:
         - title: BSc. in Economics          
           company: Federal University of Santa Catarina
           company_url: 'https://ufsc.br'          
+          company_logo: ufsc-logo
           location: Florianópolis, Brazil
           date_start: '2008-03-01'
           date_end: '2013-03-20'
