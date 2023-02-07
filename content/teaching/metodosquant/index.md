@@ -53,7 +53,7 @@ Materiais adicionais do curso serão disponibilizados, em breve, no website da d
 
 | Tópico                     | Notebook                                                         | Slides |
 |----------------------------|------------------------------------------------------------------|--------|
-| Apresentação da disciplina | [A post]({{< relref "html/mqe_aula01.html" >}}) |        |
+| Apresentação da disciplina | [HTML](https://raw.githack.com/pvfonseca/pvfonseca.github.io/main/static/html/mqe_aula01.html) |        |
 
 {{% staticref "html/mqe_aula01.html" %}} HTML {{% /staticref %}}
 ## 📚 Bibliografia
