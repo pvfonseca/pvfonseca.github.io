@@ -40,7 +40,8 @@ sections:
       date_format: Jan 2006
       items:
         - title: PhD in Economics          
-          company: Federal University of Santa Catarina          
+          company: Federal University of Santa Catarina
+          company_logo: org-gc          
           company_url: 'https://ufsc.br'          
           location: Florianópolis, Brazil
           date_start: '2016-03-01'
