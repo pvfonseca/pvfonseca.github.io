@@ -48,27 +48,19 @@ sections:
        items:
          - title: PhD in Economics
            company: Federal University of Santa Catarina
-           company_url: 'https://ufsc.br'
+           company_url: https://ufsc.br
            company_logo: ufsc-logo
            location: Florianópolis, Brazil
            date_start: '2016-03-03'
            date_end: '2020-03-03'
            description: |2-  
 
-               * Thesis: ["Three essays on monetary and fiscal policy interactions"](https://repositorio.ufsc.br/handle/123456789/216729)
+               * Thesis: [Three essays on monetary and fiscal policy interactions](https://repositorio.ufsc.br/handle/123456789/216729)
                * Supervisors: Prof. Jaylson Jair da Silveira and Prof. Guilherme Valle Moura
                * Scholarship: Coordination for the Improvement of Higher Education Personnel (CAPES) – Brazilian federal government agency
                * Overall GPA: 3.87/4.0
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
-     design:
-       columns: '2'
+       design:
+         columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
