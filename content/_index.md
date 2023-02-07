@@ -41,8 +41,7 @@ sections:
       items:
         - title: PhD in Economics          
           company: Federal University of Santa Catarina               
-          company_url: 'https://ufsc.br'          
-          company_logo: ufsc-logo
+          company_url: 'https://ufsc.br'                    
           location: Florianópolis, Brazil
           date_start: '2016-03-01'
           date_end: '2020-03-20'
@@ -71,6 +70,16 @@ sections:
               * **Supervisor**: [Jaylson Jair da Silveira](https://scholar.google.com/citations?user=EnUdUWgAAAAJ&hl=en)
               * **Scholarship**: National Council for Scientific and Technological Development (CNPq) – Brazilian federal government agency
               * **Overall GPA**: 3.76/4.0
+        - title: BSc. in Economics          
+          company: Federal University of Santa Catarina
+          company_url: 'https://ufsc.br'          
+          location: Florianópolis, Brazil
+          date_start: '2008-03-01'
+          date_end: '2013-03-20'
+          description: |2-
+              * **Thesis**: [Dinâmicas migratórias em um ambiente complexo e adaptativo com redes _small-world_](https://repositorio.ufsc.br/handle/123456789/103895)
+              * **Supervisor**: [Jaylson Jair da Silveira](https://scholar.google.com/citations?user=EnUdUWgAAAAJ&hl=en)              
+              * **Overall GPA**: 3.67/4.0
     design:
       columns: '2'
   # - block: collection
