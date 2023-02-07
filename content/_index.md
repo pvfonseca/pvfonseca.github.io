@@ -33,7 +33,24 @@ sections:
           icon_pack: custom
         - name: Statistics          
           icon: chart-line
-          icon_pack: fas              
+          icon_pack: fas
+  - block: experience
+    content:
+      title: Education
+      date_format: Jan 2006
+      items:
+        - title: PhD in Economics          
+          company: Federal University of Santa Catarina
+          company_url: ''
+          location: Brazil
+          date_start: '2016-03-01'
+          date_end: '2020-03-20'
+          description: |2-
+              * Thesis
+              * Supervisors
+              * GPA
+      design:
+        columns: '2'
   # - block: collection
   #   id: posts
   #   content:
