@@ -46,9 +46,10 @@ sections:
           date_start: '2016-03-01'
           date_end: '2020-03-20'
           description: |2-
-              * Thesis
-              * Supervisors
-              * GPA
+              * **Thesis**: [Three essays on monetary and fiscal policy interactions](https://repositorio.ufsc.br/handle/123456789/216729)
+              * **Supervisors**: Prof. Jaylson Jair da Silveira and Prof. Guilherme Valle Moura
+              * **Scholarship**: Coordination for the Improvement of Higher Education Personnel (CAPES) – Brazilian federal government agency
+              * **Overall GPA**: 3.87/4.0
         - title: MSc in Economics          
           company: Federal University of Santa Catarina
           company_url: 'https://ufsc.br'          
@@ -56,9 +57,10 @@ sections:
           date_start: '2016-03-01'
           date_end: '2020-03-20'
           description: |2-
-              * Thesis
-              * Supervisors
-              * GPA
+              * **Thesis**: [Three essays on monetary and fiscal policy interactions](https://repositorio.ufsc.br/handle/123456789/216729)
+              * **Supervisors**: Prof. Jaylson Jair da Silveira and Prof. Guilherme Valle Moura
+              * **Scholarship**: Coordination for the Improvement of Higher Education Personnel (CAPES) – Brazilian federal government agency
+              * **Overall GPA**: 3.87/4.0
     design:
       columns: '2'
   # - block: collection
