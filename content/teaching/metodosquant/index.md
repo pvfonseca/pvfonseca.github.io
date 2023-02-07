@@ -51,11 +51,11 @@ Materiais adicionais do curso serão disponibilizados, em breve, no website da d
 {{% /callout %}}
 
 
-| Tópico                     | Notebook                                                         | Slides |
-|----------------------------|------------------------------------------------------------------|--------|
-| Apresentação da disciplina | [HTML](https://raw.githack.com/pvfonseca/pvfonseca.github.io/main/static/html/mqe_aula01.html) |        |
+| Tópico | Notebook | Slides |
+| :--- | --- | --- |
+| Apresentação da disciplina | [HTML](https://raw.githack.com/pvfonseca/pvfonseca.github.io/main/static/html/mqe_aula01.html) | |
 
-{{% staticref "html/mqe_aula01.html" %}} HTML {{% /staticref %}}
+% {{% staticref "html/mqe_aula01.html" %}} HTML {{% /staticref %}}
 ## 📚 Bibliografia
 
 CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.
