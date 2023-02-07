@@ -116,13 +116,12 @@ Materiais adicionais do curso serão disponibilizados, em breve, no website da d
 &lt;tbody>
 &lt;tr>
 &lt;td>Apresentação da disciplina&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Teste&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula01.html"> HTML &lt;/a>
-| |&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula01.html"> HTML &lt;/a>&lt;/p>
 &lt;h2 id="-bibliografia">📚 Bibliografia&lt;/h2>
 &lt;p>CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.&lt;/p>
 &lt;p>DIXIT, A. Optimization in Economic Theory. 2.ed., Oxford University Press, 1990.&lt;/p>
@@ -362,7 +361,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-815762439" class="chart">&lt;/div>
+&lt;div id="chart-826135497" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -371,7 +370,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-815762439', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-826135497', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
