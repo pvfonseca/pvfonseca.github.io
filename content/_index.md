@@ -50,17 +50,26 @@ sections:
               * **Supervisors**: Prof. Jaylson Jair da Silveira and Prof. Guilherme Valle Moura
               * **Scholarship**: Coordination for the Improvement of Higher Education Personnel (CAPES) – Brazilian federal government agency
               * **Overall GPA**: 3.87/4.0
-        - title: MSc in Economics          
+        - title: Visiting Scholar
+          company: Università degli Studi di Milano‐Bicocca
+          company_url: 'https://www.unimib.it'
+          location: Milan, Italy
+          date_start: '2018-09-01'
+          date_end: '2019-03-30'
+          description: |2-
+              * **Supervisor**: Prof. Alice Albonico
+              * **Scholarship**: Sandwich Doctorate ‐ Coordination for the Improvement of Higher Education Personnel (CAPES)
+        - title: MSc. in Economics          
           company: Federal University of Santa Catarina
           company_url: 'https://ufsc.br'          
           location: Florianópolis, Brazil
-          date_start: '2016-03-01'
-          date_end: '2020-03-20'
+          date_start: '2013-03-01'
+          date_end: '2015-03-20'
           description: |2-
-              * **Thesis**: [Three essays on monetary and fiscal policy interactions](https://repositorio.ufsc.br/handle/123456789/216729)
-              * **Supervisors**: Prof. Jaylson Jair da Silveira and Prof. Guilherme Valle Moura
-              * **Scholarship**: Coordination for the Improvement of Higher Education Personnel (CAPES) – Brazilian federal government agency
-              * **Overall GPA**: 3.87/4.0
+              * **Thesis**: [Extração de esforço de trabalho e diferenciais de salários em um ambiente macrodinâmico clássico](https://tede.ufsc.br/teses/PCNM0276-D.pdf)
+              * **Supervisor**: Prof. Jaylson Jair da Silveira
+              * **Scholarship**: National Council for Scientific and Technological Development (CNPq) – Brazilian federal government agency
+              * **Overall GPA**: 3.76/4.0
     design:
       columns: '2'
   # - block: collection
