@@ -84,6 +84,7 @@ sections:
               * **Thesis**: [Dinâmicas migratórias em um ambiente complexo e adaptativo com redes _small-world_](https://repositorio.ufsc.br/handle/123456789/103895)
               * **Supervisor**: [Jaylson Jair da Silveira](https://scholar.google.com/citations?user=EnUdUWgAAAAJ&hl=en)              
               * **Overall GPA**: 3.67/4.0
+              * Scientific initiation award in Social Sciences
     design:
       columns: '2'
   # - block: collection
