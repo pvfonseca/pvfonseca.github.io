@@ -15,9 +15,9 @@ title: Métodos Quantitativos em Economia I
 Materiais adicionais do curso serão disponibilizados, em breve, no website da disciplina.
 {{% /callout %}}
 
-| Tópico | Notebook | Slides |
-| :--- | --- | --- |
-| Apresentação da disciplina | {{% staticref "uploads/mqe_aula01.html" %}} HTML {{% /staticref %}} | |
+| Tópico                     | Notebook                                                            | Slides |
+|----------------------------|---------------------------------------------------------------------|--------|
+| Apresentação da disciplina | {{% staticref "uploads/mqe_aula01.html" %}} HTML {{% /staticref %}} |        |
 ## Ementa
 
 <p align="justify">Condições de 1ª e 2ª ordens para máximos e mínimos irrestritos. Aplicações econômicas de otimização irrestrita. Condições de 1ª ordem para otimização condicionada com restrições de igualdade e desigualdade. Método dos multiplicadores de Lagrange e de Kuhn Tucker. Condições de 2ª ordem para otimização condicionada com restrições de igualdade e desigualdade. Interpretação dos multiplicadores em problemas de otimização. Teorema do envelope. Funções homogêneas, homotéticas, côncavas e quase côncavas. Aplicações econômicas dos problemas de otimização relacionados à maximização de utilidade e demanda maximização de lucros, custos, ótimo de Pareto e teoremas fundamentais de bem-estar. Programação linear.</p>
