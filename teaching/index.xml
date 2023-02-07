@@ -51,6 +51,7 @@
 &lt;li>&lt;a href="#programa">Programa&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#avaliação">Avaliação&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#slides-e-notebooks">Slides e Notebooks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#-bibliografia">📚 Bibliografia&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/nav>
 &lt;/details>
@@ -96,9 +97,9 @@ Materiais adicionais do curso serão disponibilizados, em breve, no website da d
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align:left">Tópico&lt;/th>
-&lt;th style="text-align:center">Notebook&lt;/th>
-&lt;th style="text-align:center">Slides&lt;/th>
+&lt;th style="text-align:left">&lt;strong>Tópico&lt;/strong>&lt;/th>
+&lt;th style="text-align:center">&lt;strong>Notebook&lt;/strong>&lt;/th>
+&lt;th style="text-align:center">&lt;strong>Slides&lt;/strong>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -109,28 +110,20 @@ Materiais adicionais do curso serão disponibilizados, em breve, no website da d
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-\begin{table}[]
-\begin{tabular}{|l|c|l|}
-\hline
-Tópico &amp; Notebook &amp; Slides \\ \hline
-Apresentação da disciplina &amp; HTML &amp; \\ \hline
-\end{tabular}
-\end{table}
-{{ &lt; /math >}}
-%
-&lt;a href="https://pvfonseca.github.io/html/mqe_aula01.html">HTML&lt;/a>
-## 📚 Bibliografia
-CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.
-DIXIT, A. Optimization in Economic Theory. 2.ed., Oxford University Press, 1990.
-HOY, M.; LIVERNOIS, J.; McKENNA, C.; REES, R.; STENGOS, T. Mathematics for Economics. 2.ed., Massachussetts: MIT Press, 2001.
-FUENTE, A. Mathematical methods and models for economists. Cambridge, UK. New York, NY: Cambridge University Press, 2000.
-NICHOLSON, W.; SNYDER C. Teoria microeconômica: Princípios básicos e aplicações. Cengage Learning Brasil, 2019. Disponível em: [app.minhabiblioteca.com.br](https://app.minhabiblioteca.com.br/#/books/9788522127030/)
-SILBERBERG, E.; SUEN, W. The structure of economics: a mathematical analysis. 3rd.ed. Singapore: McGraw-Hill Higher Education, 2001.
-SIMON, C.P.; BLUME, L. Matemática para economistas. Porto Alegre: Bookman, 2004.
-STEWART, J. Cálculo – Volume 1. 8.ed. Cengage Learning Brasil, 2017. Disponível em: [app.minhabiblioteca.com.br](https://app.minhabiblioteca.com.br/#/books/9788522126859/)
-STEWART, J. Cálculo – Volume 2. 8.ed. Cengage Learning Brasil, 2017. Disponível em: [app.minhabiblioteca.com.br](https://app.minhabiblioteca.com.br/#/books/9788522126866/)
-SUNDARAM, R.K. A first course in optimization theory. Cambridge University Press, 1996.
-SYDSÆTER, K.; HAMMOND, P.J.; STRØM, A.; CARVAJAL, A. Essential mathematics for economic analysis. 5th.ed. Harlow, UK: Pearson Education Limited, 2016.</description></item><item><title>Microeconomia I</title><link>https://pvfonseca.github.io/teaching/micro/</link><pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/micro/</guid><description>&lt;h2 id="ementa">Ementa&lt;/h2>
+&lt;p>%&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula01.html"> HTML &lt;/a>&lt;/p>
+&lt;h2 id="-bibliografia">📚 Bibliografia&lt;/h2>
+&lt;p>CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.&lt;/p>
+&lt;p>DIXIT, A. Optimization in Economic Theory. 2.ed., Oxford University Press, 1990.&lt;/p>
+&lt;p>HOY, M.; LIVERNOIS, J.; McKENNA, C.; REES, R.; STENGOS, T. Mathematics for Economics. 2.ed., Massachussetts: MIT Press, 2001.&lt;/p>
+&lt;p>FUENTE, A. Mathematical methods and models for economists. Cambridge, UK. New York, NY: Cambridge University Press, 2000.&lt;/p>
+&lt;p>NICHOLSON, W.; SNYDER C. Teoria microeconômica: Princípios básicos e aplicações. Cengage Learning Brasil, 2019. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/#/books/9788522127030/" target="_blank" rel="noopener">app.minhabiblioteca.com.br&lt;/a>&lt;/p>
+&lt;p>SILBERBERG, E.; SUEN, W. The structure of economics: a mathematical analysis. 3rd.ed. Singapore: McGraw-Hill Higher Education, 2001.&lt;/p>
+&lt;p>SIMON, C.P.; BLUME, L. Matemática para economistas. Porto Alegre: Bookman, 2004.&lt;/p>
+&lt;p>STEWART, J. Cálculo – Volume 1. 8.ed. Cengage Learning Brasil, 2017. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/#/books/9788522126859/" target="_blank" rel="noopener">app.minhabiblioteca.com.br&lt;/a>&lt;/p>
+&lt;p>STEWART, J. Cálculo – Volume 2. 8.ed. Cengage Learning Brasil, 2017. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/#/books/9788522126866/" target="_blank" rel="noopener">app.minhabiblioteca.com.br&lt;/a>&lt;/p>
+&lt;p>SUNDARAM, R.K. A first course in optimization theory. Cambridge University Press, 1996.&lt;/p>
+&lt;p>SYDSÆTER, K.; HAMMOND, P.J.; STRØM, A.; CARVAJAL, A. Essential mathematics for economic analysis. 5th.ed. Harlow, UK: Pearson Education Limited, 2016.&lt;/p></description></item><item><title>Microeconomia I</title><link>https://pvfonseca.github.io/teaching/micro/</link><pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/micro/</guid><description>&lt;h2 id="ementa">Ementa&lt;/h2>
 &lt;p align="justify">Restrição orçamentária. Preferências do consumidor. Comportamento do consumidor. Demanda individual e demanda de mercado. Elasticidade. Preferência revelada. Equação de Slutsky. Escolhas sob incerteza e ativos de risco. Escolha intertemporal. Excedente do consumidor e do produtor. Tecnologias de produção. Maximização de lucros. Minimização de custos. Curvas de custo. Oferta da empresa e oferta de mercado.&lt;/p>
 &lt;h2 id="objetivo">Objetivo&lt;/h2>
 &lt;p align="justify">A disciplina apresenta os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos de construção básicos da análise microeconômica contemporânea.&lt;/p>
