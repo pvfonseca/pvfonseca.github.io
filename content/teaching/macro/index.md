@@ -10,6 +10,9 @@ tags:
 - teaching
 title: Macroeconomia I
 ---
+
+{{< toc >}}
+
 ## Ementa
 
 <p align="justify">Agregados econômicos. Determinação do produto no modelo clássico: mercado de trabalho e curva de oferta agregada. Poupança, investimento e taxa de juros de equilíbrio. Teoria quantitativa da moeda e demanda agregada. Produto de equilíbrio no modelo keynesiano. Mercado de trabalho. Modelo de demanda e oferta agregadas. Curva de Phillips aumentada.</p>
@@ -41,6 +44,10 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 - Trabalhos adicionais - 10%
 {{% /callout %}}
 
+## Slides e Notebooks
+
+{{% staticref "pdf/macro_aula01.pdf" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
+
 ## 📚 Bibliografia
 ABEL, A.; BERNANKE, B.; CROUSHORE, D. Macroeconomia. 6.ed. Pearson Prentice Hall, 2008. 
 
@@ -58,8 +65,8 @@ FROYEN, R. Macroeconomia: teorias e aplicações. 2.ed. São Paulo: Saraiva, 201
 
 LOPES, L.M.; VASCONCELLOS, M.A.S. Manual de Macroeconomia: Nível básico e nível intermediário. 3.ed. São Paulo: Atlas, 2008.
 
- MANKIW, G. Macroeconomia. 8.ed. Rio de Janeiro: LTC, 2018. Disponível em: [app.minhabiblioteca.com.br/reader/books/978-85-216-2749-4](https://app.minhabiblioteca.com.br/reader/books/978-85-216-2749-4/)
+MANKIW, G. Macroeconomia. 8.ed. Rio de Janeiro: LTC, 2018. Disponível em: [app.minhabiblioteca.com.br/reader/books/978-85-216-2749-4](https://app.minhabiblioteca.com.br/reader/books/978-85-216-2749-4/)
 
- SCARTH, W.M. Macroeconomics: An introduction to advanced methods. Toronto: Harcourt Brace Jovanovich Canada Inc., 1988. (Tradução: Sergio da Silva).
+SCARTH, W.M. Macroeconomics: An introduction to advanced methods. Toronto: Harcourt Brace Jovanovich Canada Inc., 1988. (Tradução: Sergio da Silva).
 
 SIMONSEN, M.H.; CYSNE, R.B. Macroeconomia. 4.ed. São Paulo: Atlas, 2009. Disponível em: [app.minhabiblioteca.com.br/reader/books/9788522465330](https://app.minhabiblioteca.com.br/reader/books/9788522465330)
