@@ -9,7 +9,21 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Macroeconomia I</title><link>https://pvfonseca.github.io/teaching/macro/</link><pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/macro/</guid><description>&lt;h2 id="ementa">Ementa&lt;/h2>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Macroeconomia I</title><link>https://pvfonseca.github.io/teaching/macro/</link><pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/macro/</guid><description>
+&lt;details class="toc-inpage d-print-none " open>
+&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#ementa">Ementa&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#objetivo">Objetivo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#programa">Programa&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#avaliação">Avaliação&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#slides-e-notebooks">Slides e Notebooks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#-bibliografia">📚 Bibliografia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/details>
+&lt;h2 id="ementa">Ementa&lt;/h2>
 &lt;p align="justify">Agregados econômicos. Determinação do produto no modelo clássico: mercado de trabalho e curva de oferta agregada. Poupança, investimento e taxa de juros de equilíbrio. Teoria quantitativa da moeda e demanda agregada. Produto de equilíbrio no modelo keynesiano. Mercado de trabalho. Modelo de demanda e oferta agregadas. Curva de Phillips aumentada.&lt;/p>
 &lt;h2 id="objetivo">Objetivo&lt;/h2>
 &lt;p align="justify">O objetivo da disciplina é apresentar os princípios básicos da teoria macroeconômica e seus diversos domínios de aplicação. O curso se propõe a familiarizar o estudante com os principais modelos macroeconômicos para determinação do produto de equilíbrio a partir da metodologia de equilíbrio geral, onde são tratadas as interações entre vários mercados, bem como os efeitos da ação do governo, em nível agregado. Isso permitirá o conhecimento dos instrumentos de análise e prescrição de políticas macroeconômicas.&lt;/p>
@@ -41,6 +55,8 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;/ul>
 &lt;/div>
 &lt;/div>
+&lt;h2 id="slides-e-notebooks">Slides e Notebooks&lt;/h2>
+&lt;p>&lt;a href="https://pvfonseca.github.io/pdf/macro_aula01.pdf" target="_blank"> ▶️ Aula 1: Apresentação da Disciplina &lt;/a>&lt;/p>
 &lt;h2 id="-bibliografia">📚 Bibliografia&lt;/h2>
 &lt;p>ABEL, A.; BERNANKE, B.; CROUSHORE, D. Macroeconomia. 6.ed. Pearson Prentice Hall, 2008.&lt;/p>
 &lt;p>ALEM, A. Macroeconomia: teoria e prática no Brasil. 2.ed. Rio de Janeiro: Elsevier, 2018. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/books/9788595152083" target="_blank" rel="noopener">app.minhabiblioteca.com.br/books/9788595152083&lt;/a>&lt;/p>
@@ -345,7 +361,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-936421578" class="chart">&lt;/div>
+&lt;div id="chart-526318749" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -354,7 +370,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-936421578', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-526318749', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
