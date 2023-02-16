@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-02-04
+date: 2023-02-15
 draft: false
 image:
   caption: "Source: [Wikipedia - History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)"
@@ -10,6 +10,8 @@ tags:
 - teaching
 title: Pensamento Econômico Contemporâneo
 ---
+
+{{< toc >}}
 
 ## Ementa
 
@@ -43,6 +45,10 @@ As aulas acontecerão na sala 50 ESAG/UDESC às:
 - Atividade avaliativa III (PIII) - 30%
 - Trabalhos adicionais - 20%
 {{% /callout %}}
+
+## Slides e Notebooks
+
+{{% staticref "pdf/pec_aula01.pdf" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
 
 ## 📚 Bibliografia
 
