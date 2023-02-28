@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-02-04
+date: 2023-02-27
 draft: false
 image:
   caption: "Source: Pindyck and Rubinfeld (2013)"
@@ -10,6 +10,8 @@ tags:
 - teaching
 title: Microeconomia I
 ---
+
+{{< toc >}}
 
 ## Ementa
 
@@ -40,6 +42,10 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 - Atividade avaliativa III (PIII) - 20%
 - Trabalhos adicionais - 20%
 {{% /callout %}}
+
+## Slides e Notebooks
+
+{{% staticref "pdf/micro_aula01.pdf" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
 
 ## 📚 Bibliografia
 
