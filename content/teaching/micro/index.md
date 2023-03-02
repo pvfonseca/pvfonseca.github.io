@@ -47,7 +47,7 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 {{% staticref "pdf/micro_aula01.pdf" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
 
-{{% staticref "pdf/micro_aula02.pdf" "newtab" %}} ▶️ Aula 1: Elementos de Matemática {{% /staticref %}}
+{{% staticref "pdf/micro_aula02.pdf" "newtab" %}} ▶️ Aula 2: Elementos de Matemática {{% /staticref %}}
 
 ## 📚 Bibliografia
 
