@@ -48,6 +48,8 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 {{% staticref "pdf/macro_aula01.pdf" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
 
+{{% staticref "pdf/macro_aula02.pdf" "newtab" %}} ▶️ Aula 2: Modelo clássico - Renda e emprego de equilíbrio {{% /staticref %}}
+
 ## 📚 Bibliografia
 ABEL, A.; BERNANKE, B.; CROUSHORE, D. Macroeconomia. 6.ed. Pearson Prentice Hall, 2008. 
 
