@@ -51,6 +51,8 @@ Materiais adicionais do curso serão disponibilizados, em breve, no website da d
 {{% /callout %}}
 
 {{% staticref "html/mqe_aula01.html" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
+
+{{% staticref "html/mqe_aula02.html" "newtab" %}} ▶️ Aula 1: Revisão de conceitos básicos {{% /staticref %}}
 ## 📚 Bibliografia
 
 CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.
