@@ -22,9 +22,9 @@ title: Microeconomia I
 <p align="justify">A disciplina apresenta os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos de construção básicos da análise microeconômica contemporânea.</p>
 
 {{% callout note %}}
-As aulas acontecerão na sala 147 ESAG/UDESC às:
-- Quartas-feiras das 10:15 às 11:55
-- Sextas-feiras das 10:15 às 11:55
+As aulas acontecerão na sala 51 ESAG/UDESC às:
+- Terças-feiras das 08:20 às 10:00
+- Quintas-feiras das 10:15 às 11:55
 {{% /callout %}}
 
 ## Programa
