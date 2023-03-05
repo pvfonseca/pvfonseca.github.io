@@ -49,6 +49,8 @@ As aulas acontecerão na sala 51 ESAG/UDESC às:
 
 {{% staticref "pdf/micro_aula02.pdf" "newtab" %}} ▶️ Aula 2: Elementos de Matemática {{% /staticref %}}
 
+{{% staticref "pdf/micro_aula03.html" "newtab" %}} ▶️ Aula 3: Conceitos iniciais {{% /staticref %}}
+
 ## 📚 Bibliografia
 
 JEHLE, G. A.; RENY, P. J. Advanced microeconomic theory. 3.ed. Pearson Education Limited, 2011.
