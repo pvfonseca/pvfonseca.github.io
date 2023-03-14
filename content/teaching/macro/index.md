@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-02-04
+date: 2023-03-14
 draft: false
 image:
   caption: "Source: Relatório de Inflação março/2019 - Banco Central do Brasil"
@@ -49,6 +49,9 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 {{% staticref "pdf/macro_aula01.pdf" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
 
 {{% staticref "pdf/macro_aula02.pdf" "newtab" %}} ▶️ Aula 2: Modelo clássico - Renda e emprego de equilíbrio {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula03.pdf" "newtab" %}} ▶️ Aula 3: Modelo clássico - Lei de Say, TQM e evidências empíricas {{% /staticref %}}
+
 
 ## 📚 Bibliografia
 ABEL, A.; BERNANKE, B.; CROUSHORE, D. Macroeconomia. 6.ed. Pearson Prentice Hall, 2008. 
