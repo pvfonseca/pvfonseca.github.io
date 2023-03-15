@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-02-04
+date: 2023-03-15
 draft: false
 image:
   caption: "Source: [MATLAB Optimization Toolbox](https://www.mathworks.com/help/optim/ug/optimization-toolbox-tutorial.html)"
@@ -54,7 +54,7 @@ Materiais adicionais do curso serão disponibilizados, em breve, no website da d
 
 {{% staticref "html/mqe_aula02.jl.html" "newtab" %}} ▶️ Aula 2: Revisão de conceitos básicos {{% /staticref %}}
 
-{{% staticref "html/mqe_aula03.html" "newtab" %}} ▶️ Aula 3: Otimização estática irrestrita I {{% /staticref %}}
+{{% staticref "html/mqe_aula03.html" "newtab" %}} ▶️ Aula 3: Otimização estática irrestrita (caso univariado) {{% /staticref %}}
 ## 📚 Bibliografia
 
 CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.
