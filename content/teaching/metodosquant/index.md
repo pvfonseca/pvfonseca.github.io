@@ -46,10 +46,6 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 ## Slides e Notebooks
 
-{{% callout note %}}
-Materiais adicionais do curso serão disponibilizados, em breve, no website da disciplina.
-{{% /callout %}}
-
 {{% staticref "html/mqe_aula01.html" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
 
 {{% staticref "html/mqe_aula02.jl.html" "newtab" %}} ▶️ Aula 2: Revisão de conceitos básicos {{% /staticref %}}
