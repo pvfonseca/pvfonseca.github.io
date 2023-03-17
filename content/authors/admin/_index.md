@@ -10,7 +10,7 @@ last_name: Da Fonseca
 superuser: true
 
 # Role/position/tagline
-role: Lecturer in Economics
+role: Adjunct Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -76,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a Lecturer in Economics at [Santa Catarina State University](https://udesc.br/), Brazil. My research interests are in Macroeconomics; Fiscal policy and monetary policy and its interactions; Dynamic stochastic general equilibrium (DSGE) models; Heterogeneous agents New Keynesian models; Agent-based modeling and Computational methods.
+I am an Adjunct Professor at the Department of Economic Sciences [(Santa Catarina State University)](https://udesc.br/). My research interests are in Macroeconomics; Fiscal policy and monetary policy and its interactions; Dynamic stochastic general equilibrium (DSGE) models; Heterogeneous agents New Keynesian models; Agent-based modeling and Computational methods.
 {style="text-align: justify;"}
