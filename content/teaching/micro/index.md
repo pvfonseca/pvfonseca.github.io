@@ -51,6 +51,8 @@ As aulas acontecerão na sala 51 ESAG/UDESC às:
 
 {{% staticref "html/micro_aula03.html" "newtab" %}} ▶️ Aula 3: Conceitos iniciais {{% /staticref %}}
 
+{{% staticref "html/micro_aula04.html" "newtab" %}} ▶️ Aula 4: Preferências e utilidade {{% /staticref %}}
+
 ## 📚 Bibliografia
 
 JEHLE, G. A.; RENY, P. J. Advanced microeconomic theory. 3.ed. Pearson Education Limited, 2011.
