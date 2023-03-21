@@ -52,6 +52,8 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 {{% staticref "pdf/macro_aula03.pdf" "newtab" %}} ▶️ Aula 3: Modelo clássico - Lei de Say, TQM e evidências empíricas {{% /staticref %}}
 
+{{% staticref "pdf/macro_aula04.pdf" "newtab" %}} ▶️ Aula 4: Demanda agregada - Introdução {{% /staticref %}}
+
 
 ## 📚 Bibliografia
 ABEL, A.; BERNANKE, B.; CROUSHORE, D. Macroeconomia. 6.ed. Pearson Prentice Hall, 2008. 
