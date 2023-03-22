@@ -51,6 +51,8 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 {{% staticref "html/mqe_aula02.jl.html" "newtab" %}} ▶️ Aula 2: Revisão de conceitos básicos {{% /staticref %}}
 
 {{% staticref "html/mqe_aula03.html" "newtab" %}} ▶️ Aula 3: Otimização estática irrestrita (caso univariado) {{% /staticref %}}
+
+{{% staticref "html/mqe_aula04.html" "newtab" %}} ▶️ Aula 4: Otimização estática irrestrita (funções de duas variáveis reais) {{% /staticref %}}
 ## 📚 Bibliografia
 
 CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.
