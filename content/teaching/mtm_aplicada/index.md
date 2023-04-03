@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-03-13
+date: 2023-04-03
 draft: false
 image:
   caption: "Source: Spivak - Calculus (2006)"
@@ -50,6 +50,8 @@ As aulas acontecerão nos seguintes horários:
 {{% staticref "html/mtmaplicada_aula01.html" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
 
 {{% staticref "html/mtmaplicada_aula02.html" "newtab" %}} ▶️ Aula 2: Funções {{% /staticref %}}
+
+{{% staticref "html/mtmaplicada_aula03.html" "newtab" %}} ▶️ Aula 3: Limites {{% /staticref %}}
 
 ## 📚 Bibliografia
 
