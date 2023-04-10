@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-03-20
+date: 2023-04-10
 draft: false
 image:
   caption: "Source: Relatório de Inflação março/2019 - Banco Central do Brasil"
@@ -53,6 +53,10 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 {{% staticref "pdf/macro_aula03.pdf" "newtab" %}} ▶️ Aula 3: Modelo clássico - Lei de Say, TQM e evidências empíricas {{% /staticref %}}
 
 {{% staticref "pdf/macro_aula04.pdf" "newtab" %}} ▶️ Aula 4: Demanda agregada - Introdução {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula05.pdf" "newtab" %}} ▶️ Aula 5: Demanda agregada e paradoxo da poupança {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula06.pdf" "newtab" %}} ▶️ Aula 6: Curva IS e Demanda agregada {{% /staticref %}}
 
 
 ## 📚 Bibliografia
