@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-03-15
+date: 2023-04-10
 draft: false
 image:
   caption: "Source: [MATLAB Optimization Toolbox](https://www.mathworks.com/help/optim/ug/optimization-toolbox-tutorial.html)"
@@ -53,6 +53,13 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 {{% staticref "html/mqe_aula03.html" "newtab" %}} ▶️ Aula 3: Otimização estática irrestrita (caso univariado) {{% /staticref %}}
 
 {{% staticref "html/mqe_aula04.html" "newtab" %}} ▶️ Aula 4: Otimização estática irrestrita (funções de duas variáveis reais) {{% /staticref %}}
+
+{{% staticref "html/mqe_aula05.html" "newtab" %}} ▶️ Aula 5: Otimização estática irrestrita (funções multivariadas) {{% /staticref %}}
+
+{{% staticref "pdf/mqe_aula06.pdf" "newtab" %}} ▶️ Aula 6: Otimização estática irrestrita - Aplicações econômicas {{% /staticref %}}
+
+{{% staticref "html/mqe_aula07.html" "newtab" %}} ▶️ Aula 7: Concavidade e convexidade {{% /staticref %}}
+
 ## 📚 Bibliografia
 
 CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.
