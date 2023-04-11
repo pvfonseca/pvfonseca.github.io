@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-04-03
+date: 2023-04-10
 draft: false
 image:
   caption: "Source: Pindyck and Rubinfeld (2013)"
@@ -54,6 +54,8 @@ As aulas acontecerão na sala 51 ESAG/UDESC às:
 {{% staticref "html/micro_aula04.html" "newtab" %}} ▶️ Aula 4: Preferências e utilidade {{% /staticref %}}
 
 {{% staticref "html/micro_aula05.html" "newtab" %}} ▶️ Aula 5: Maximização de utilidade {{% /staticref %}}
+
+{{% staticref "html/micro_aula06.html" "newtab" %}} ▶️ Aula 6: Função dispêndio e dualidade {{% /staticref %}}
 
 ## 📚 Bibliografia
 
