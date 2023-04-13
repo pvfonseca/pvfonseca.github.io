@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-04-10
+date: 2023-04-13
 draft: false
 image:
   caption: "Source: Pindyck and Rubinfeld (2013)"
@@ -56,6 +56,8 @@ As aulas acontecerão na sala 51 ESAG/UDESC às:
 {{% staticref "html/micro_aula05.html" "newtab" %}} ▶️ Aula 5: Maximização de utilidade {{% /staticref %}}
 
 {{% staticref "html/micro_aula06.html" "newtab" %}} ▶️ Aula 6: Função dispêndio e dualidade {{% /staticref %}}
+
+{{% staticref "html/micro_aula07.html" "newtab" %}} ▶️ Aula 7: Efeito renda e efeito substituição {{% /staticref %}}
 
 ## 📚 Bibliografia
 
