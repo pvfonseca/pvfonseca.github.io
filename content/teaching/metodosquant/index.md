@@ -26,11 +26,6 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 - Sextas-feiras das 10:15 às 11:55
 {{% /callout %}}
 
-!!! info "Informações"
-    As aulas acontecerão na sala 147 ESAG/UDESC às:
-    - Quartas-feiras das 10:15 às 11:55
-    - Sextas-feiras das 10:15 às 11:55
-
 ## Programa
 
 - Introdução e revisão de conceitos básicos
