@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-04-10
+date: 2023-04-25
 draft: false
 image:
   caption: "Source: Relatório de Inflação março/2019 - Banco Central do Brasil"
@@ -57,6 +57,8 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 {{% staticref "pdf/macro_aula05.pdf" "newtab" %}} ▶️ Aula 5: Demanda agregada e paradoxo da poupança {{% /staticref %}}
 
 {{% staticref "pdf/macro_aula06.pdf" "newtab" %}} ▶️ Aula 6: Curva IS e Demanda agregada {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula07.pdf" "newtab" %}} ▶️ Aula 7: Comportamento _forward looking_ e consumo {{% /staticref %}}
 
 
 ## 📚 Bibliografia
