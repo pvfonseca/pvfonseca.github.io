@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-04-14
+date: 2023-04-27
 draft: false
 image:
   caption: "Source: [MATLAB Optimization Toolbox](https://www.mathworks.com/help/optim/ug/optimization-toolbox-tutorial.html)"
@@ -60,7 +60,7 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 {{% staticref "html/mqe_aula07.html" "newtab" %}} ▶️ Aula 7: Concavidade e convexidade {{% /staticref %}}
 
-{{% staticref "html/mqe_aula08.html" "newtab" %}} ▶️ Aula 8: Otimização estática com restrições de igualdade (Introdução) {{% /staticref %}}
+{{% staticref "html/mqe_aula08.html" "newtab" %}} ▶️ Aula 8: Otimização estática com restrições de igualdade {{% /staticref %}}
 
 ## 📚 Bibliografia
 
