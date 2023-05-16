@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-05-01
+date: 2023-05-16
 draft: false
 image:
   caption: "Source: Relatório de Inflação março/2019 - Banco Central do Brasil"
@@ -63,6 +63,10 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 {{% staticref "pdf/macro_aula08.pdf" "newtab" %}} ▶️ Aula 8: Comportamento _forward looking_ e investimento {{% /staticref %}}
 
 {{% staticref "pdf/macro_aula09.pdf" "newtab" %}} ▶️ Aula 9: Consumo, investimento e curva IS {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula10.pdf" "newtab" %}} ▶️ Aula 10: Mercado de trabalho - determinação de salários {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula11.pdf" "newtab" %}} ▶️ Aula 11: Mercado de trabalho - determinação de preços e taxa natural de desemprego {{% /staticref %}}
 
 
 ## 📚 Bibliografia
