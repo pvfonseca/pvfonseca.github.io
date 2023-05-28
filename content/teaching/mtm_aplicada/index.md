@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-04-25
+date: 2023-05-28
 draft: false
 image:
   caption: "Source: Spivak - Calculus (2006)"
@@ -56,6 +56,8 @@ As aulas acontecerão nos seguintes horários:
 {{% staticref "html/mtmaplicada_aula04.html" "newtab" %}} ▶️ Aula 4: Continuidade e limites no infinito {{% /staticref %}}
 
 {{% staticref "html/mtmaplicada_aula05.html" "newtab" %}} ▶️ Aula 5: Derivadas e taxas de variação {{% /staticref %}}
+
+{{% staticref "html/mtmaplicada_aula06.html" "newtab" %}} ▶️ Aula 6: Regras de derivação e aplicações de derivada {{% /staticref %}}
 
 ## 📚 Bibliografia
 
