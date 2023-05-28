@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-05-16
+date: 2023-05-28
 draft: false
 image:
   caption: "Source: Pindyck and Rubinfeld (2013)"
@@ -64,6 +64,8 @@ As aulas acontecerão na sala 51 ESAG/UDESC às:
 {{% staticref "html/micro_aula09.html" "newtab" %}} ▶️ Aula 9: Elasticidades da demanda {{% /staticref %}}
 
 {{% staticref "html/micro_aula10.html" "newtab" %}} ▶️ Aula 10: Relações de demanda entre bens {{% /staticref %}}
+
+{{% staticref "html/micro_aula11.html" "newtab" %}} ▶️ Aula 11: Teoria da firma - tecnologias de produção e conceitos iniciais {{% /staticref %}}
 
 ## 📚 Bibliografia
 
