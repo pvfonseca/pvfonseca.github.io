@@ -1,7 +1,7 @@
 ---
 categories: []
 date: 2023-05-28
-draft: false
+draft: true
 image:
   caption: "Source: Spivak - Calculus (2006)"
   focal_point: Smart
