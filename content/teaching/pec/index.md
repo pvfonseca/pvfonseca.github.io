@@ -1,7 +1,7 @@
 ---
 categories: []
-date: 2023-02-15
-draft: true
+date: 2023-08-02
+draft: false
 image:
   caption: "Source: [Wikipedia - History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)"
   focal_point: Smart
@@ -23,7 +23,7 @@ title: Pensamento Econômico Contemporâneo
 
 {{% callout note %}}
 As aulas acontecerão na sala 50 ESAG/UDESC às:
-- Quartas-feiras das 08:20 às 10:00
+- Quintas-feiras das 10:15 às 11:55
 - Sextas-feiras das 08:20 às 10:00
 {{% /callout %}}
 
@@ -40,10 +40,9 @@ As aulas acontecerão na sala 50 ESAG/UDESC às:
 ## Avaliação
 
 {{% callout note %}}
-- Atividade avaliativa I (PI) - 20%
-- Atividade avaliativa II (PII) - 30%
-- Atividade avaliativa III (PIII) - 30%
-- Trabalhos adicionais - 20%
+- Atividade avaliativa I (PI) - 35%
+- Atividade avaliativa II (PII) - 35%
+- Trabalhos adicionais - 30%
 {{% /callout %}}
 
 ## Slides e Notebooks
