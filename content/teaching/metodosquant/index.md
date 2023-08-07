@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-07-31
+date: 2023-08-07
 draft: false
 image:
   caption: "Source: [MATLAB Optimization Toolbox](https://www.mathworks.com/help/optim/ug/optimization-toolbox-tutorial.html)"
@@ -48,7 +48,7 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 {{% staticref "html/mqe_aula01.html" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
 
-{{% staticref "html/mqe_aula02.jl.html" "newtab" %}} ▶️ Aula 2: Revisão de conceitos básicos {{% /staticref %}}
+{{% staticref "html/mqe_aula02.html" "newtab" %}} ▶️ Aula 2: Revisão de conceitos básicos {{% /staticref %}}
 
 {{% staticref "html/mqe_aula03.html" "newtab" %}} ▶️ Aula 3: Otimização estática irrestrita (caso univariado) {{% /staticref %}}
 
