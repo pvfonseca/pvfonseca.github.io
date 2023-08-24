@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-08-08
+date: 2023-08-23
 draft: false
 image:
   caption: "Source: [Wikipedia - History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)"
@@ -51,7 +51,9 @@ As aulas acontecerão na sala 50 ESAG/UDESC às:
 
 {{% staticref "pdf/pec_aula02.pdf" "newtab" %}} ▶️ Aula 2: Modelo clássico - Parte I {{% /staticref %}}
 
-{{% staticref "pdf/pec_aula03.pdf" "newtab" %}} ▶️ Aula 2: Modelo clássico - Parte II {{% /staticref %}}
+{{% staticref "pdf/pec_aula03.pdf" "newtab" %}} ▶️ Aula 3: Modelo clássico - Parte II {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula04.pdf" "newtab" %}} ▶️ Aula 4: Teoria Geral - Antecedentes históricos e principais proposições {{% /staticref %}}
 
 ## 📚 Bibliografia
 
