@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-08-08
+date: 2023-08-30
 draft: false
 image:
   caption: "Source: Relatório de Inflação março/2019 - Banco Central do Brasil"
