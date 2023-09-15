@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-09-13
+date: 2023-09-15
 draft: false
 image:
   caption: "Source: [Wikipedia - History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)"
@@ -60,6 +60,8 @@ As aulas acontecerão na sala 50 ESAG/UDESC às:
 {{% staticref "pdf/pec_aula06.pdf" "newtab" %}} ▶️ Aula 6: Escola Keynesiana ortodoxa - Modelo IS-LM tradicional {{% /staticref %}}
 
 {{% staticref "pdf/pec_aula07.pdf" "newtab" %}} ▶️ Aula 7: Escola Keynesiana ortodoxa - Equilíbrio de subemprego e efeito Pigou {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula08.pdf" "newtab" %}} ▶️ Aula 8: Escola Keynesiana ortodoxa - Curva de Phillips {{% /staticref %}}
 
 ## 📚 Bibliografia
 
