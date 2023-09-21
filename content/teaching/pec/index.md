@@ -63,6 +63,8 @@ As aulas acontecerão na sala 50 ESAG/UDESC às:
 
 {{% staticref "pdf/pec_aula08.pdf" "newtab" %}} ▶️ Aula 8: Escola Keynesiana ortodoxa - Curva de Phillips {{% /staticref %}}
 
+{{% staticref "pdf/pec_aula09.pdf" "newtab" %}} ▶️ Aula 9: Escola monetarista ortodoxa - TQM, demanda por moeda e hipótese da renda permanente {{% /staticref %}}
+
 ## 📚 Bibliografia
 
 BLANCHARD, O. Macroeconomia. 7.ed. São Paulo: Pearson Education do Brasil, 2017.
