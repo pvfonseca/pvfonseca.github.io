@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-09-15
+date: 2023-09-20
 draft: false
 image:
   caption: "Source: [Wikipedia - History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)"
