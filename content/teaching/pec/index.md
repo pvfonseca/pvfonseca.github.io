@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-09-20
+date: 2023-09-25
 draft: false
 image:
   caption: "Source: [Wikipedia - History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)"
@@ -64,6 +64,10 @@ As aulas acontecerão na sala 50 ESAG/UDESC às:
 {{% staticref "pdf/pec_aula08.pdf" "newtab" %}} ▶️ Aula 8: Escola Keynesiana ortodoxa - Curva de Phillips {{% /staticref %}}
 
 {{% staticref "pdf/pec_aula09.pdf" "newtab" %}} ▶️ Aula 9: Escola monetarista ortodoxa - TQM, demanda por moeda e hipótese da renda permanente {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula10.pdf" "newtab" %}} ▶️ Aula 10: Escola monetarista ortodoxa - Principais proposições e curva de Phillips aumentada por expectativas {{% /staticref %}}
+
+
 
 ## 📚 Bibliografia
 
