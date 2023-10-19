@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-09-25
+date: 2023-10-18
 draft: false
 image:
   caption: "Source: [Wikipedia - History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)"
@@ -67,7 +67,7 @@ As aulas acontecerão na sala 50 ESAG/UDESC às:
 
 {{% staticref "pdf/pec_aula10.pdf" "newtab" %}} ▶️ Aula 10: Escola monetarista ortodoxa - Principais proposições e curva de Phillips aumentada por expectativas {{% /staticref %}}
 
-
+{{% staticref "pdf/pec_aula11.pdf" "newtab" %}} ▶️ Aula 11: Escola novo-clássica {{% /staticref %}}
 
 ## 📚 Bibliografia
 
