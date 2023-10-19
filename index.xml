@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paulo da Fonseca</title><link>https://pvfonseca.github.io/</link><atom:link href="https://pvfonseca.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Paulo da Fonseca</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://pvfonseca.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Paulo da Fonseca</title><link>https://pvfonseca.github.io/</link></image><item><title>Pensamento Econômico Contemporâneo</title><link>https://pvfonseca.github.io/teaching/pec/</link><pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/pec/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Paulo da Fonseca</title><link>https://pvfonseca.github.io/</link><atom:link href="https://pvfonseca.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Paulo da Fonseca</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://pvfonseca.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Paulo da Fonseca</title><link>https://pvfonseca.github.io/</link></image><item><title>Métodos Quantitativos em Economia I</title><link>https://pvfonseca.github.io/teaching/metodosquant/</link><pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/metodosquant/</guid><description>
+&lt;details class="toc-inpage d-print-none " open>
+&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#ementa">Ementa&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#objetivo">Objetivo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#programa">Programa&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#avaliação">Avaliação&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#slides-e-notebooks">Slides e Notebooks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#-bibliografia">📚 Bibliografia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/details>
+&lt;h2 id="ementa">Ementa&lt;/h2>
+&lt;p align="justify">Condições de 1ª e 2ª ordens para máximos e mínimos irrestritos. Aplicações econômicas de otimização irrestrita. Condições de 1ª ordem para otimização condicionada com restrições de igualdade e desigualdade. Método dos multiplicadores de Lagrange e de Kuhn Tucker. Condições de 2ª ordem para otimização condicionada com restrições de igualdade e desigualdade. Interpretação dos multiplicadores em problemas de otimização. Teorema do envelope. Funções homogêneas, homotéticas, côncavas e quase côncavas. Aplicações econômicas dos problemas de otimização relacionados à maximização de utilidade e demanda maximização de lucros, custos, ótimo de Pareto e teoremas fundamentais de bem-estar. Programação linear.&lt;/p>
+&lt;h2 id="objetivo">Objetivo&lt;/h2>
+&lt;p align="justify">O objetivo da disciplina é apresentar aos alunos as principais técnicas de otimização estática, bem como suas principais aplicações em Economia. Ao final do curso espera-se que o aluno seja capaz de utilizar o ferramental desenvolvido na disciplina em aplicações à Teoria Econômica (microeconomia, macroeconomia e disciplinas correlatas).&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>As aulas acontecerão na sala 147 ESAG/UDESC às:&lt;/p>
+&lt;ul>
+&lt;li>Terças-feiras das 10:15 às 11:55&lt;/li>
+&lt;li>Quintas-feiras das 08:20 às 10:00&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="programa">Programa&lt;/h2>
+&lt;ul>
+&lt;li>Introdução e revisão de conceitos básicos&lt;/li>
+&lt;li>Otimização estática sem restrições&lt;/li>
+&lt;li>Otimização estática com restrições&lt;/li>
+&lt;li>Funções homogêneas e funções homotéticas&lt;/li>
+&lt;li>Concavidade e quase-concavidade&lt;/li>
+&lt;li>Programação linear&lt;/li>
+&lt;/ul>
+&lt;h2 id="avaliação">Avaliação&lt;/h2>
+&lt;div class="alert alert-note">
+&lt;div>
+&lt;ul>
+&lt;li>Atividade avaliativa I (PI) - 30%&lt;/li>
+&lt;li>Atividade avaliativa II (PII) - 30%&lt;/li>
+&lt;li>Atividade avaliativa III (PIII) - 20%&lt;/li>
+&lt;li>Trabalhos adicionais - 20%&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="slides-e-notebooks">Slides e Notebooks&lt;/h2>
+&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula01.html" target="_blank"> ▶️ Aula 1: Apresentação da Disciplina &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula02.html" target="_blank"> ▶️ Aula 2: Revisão de conceitos básicos &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula03.html" target="_blank"> ▶️ Aula 3: Otimização estática irrestrita (caso univariado) &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula04.html" target="_blank"> ▶️ Aula 4: Otimização estática irrestrita (funções de duas variáveis reais) &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula05.html" target="_blank"> ▶️ Aula 5: Otimização estática irrestrita (funções multivariadas) &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/pdf/mqe_aula06.pdf" target="_blank"> ▶️ Aula 6: Otimização estática irrestrita - Aplicações econômicas &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula07.html" target="_blank"> ▶️ Aula 7: Concavidade e convexidade &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula08.html" target="_blank"> ▶️ Aula 8: Otimização estática com restrições de igualdade &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/pdf/mqe_aula09.pdf" target="_blank"> ▶️ Aula 9: Estática comparativa, teorema da função implícita e teorema do envelope &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula10.html" target="_blank"> ▶️ Aula 10: Otimização estática com restrições de igualdade (CSOs) &lt;/a>&lt;/p>
+&lt;h2 id="-bibliografia">📚 Bibliografia&lt;/h2>
+&lt;p>CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.&lt;/p>
+&lt;p>DIXIT, A. Optimization in Economic Theory. 2.ed., Oxford University Press, 1990.&lt;/p>
+&lt;p>HOY, M.; LIVERNOIS, J.; McKENNA, C.; REES, R.; STENGOS, T. Mathematics for Economics. 2.ed., Massachussetts: MIT Press, 2001.&lt;/p>
+&lt;p>FUENTE, A. Mathematical methods and models for economists. Cambridge, UK. New York, NY: Cambridge University Press, 2000.&lt;/p>
+&lt;p>NICHOLSON, W.; SNYDER C. Teoria microeconômica: Princípios básicos e aplicações. Cengage Learning Brasil, 2019. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/#/books/9788522127030/" target="_blank" rel="noopener">app.minhabiblioteca.com.br&lt;/a>&lt;/p>
+&lt;p>SILBERBERG, E.; SUEN, W. The structure of economics: a mathematical analysis. 3rd.ed. Singapore: McGraw-Hill Higher Education, 2001.&lt;/p>
+&lt;p>SIMON, C.P.; BLUME, L. Matemática para economistas. Porto Alegre: Bookman, 2004.&lt;/p>
+&lt;p>STEWART, J. Cálculo – Volume 1. 8.ed. Cengage Learning Brasil, 2017. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/#/books/9788522126859/" target="_blank" rel="noopener">app.minhabiblioteca.com.br&lt;/a>&lt;/p>
+&lt;p>STEWART, J. Cálculo – Volume 2. 8.ed. Cengage Learning Brasil, 2017. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/#/books/9788522126866/" target="_blank" rel="noopener">app.minhabiblioteca.com.br&lt;/a>&lt;/p>
+&lt;p>SUNDARAM, R.K. A first course in optimization theory. Cambridge University Press, 1996.&lt;/p>
+&lt;p>SYDSÆTER, K.; HAMMOND, P.J.; STRØM, A.; CARVAJAL, A. Essential mathematics for economic analysis. 5th.ed. Harlow, UK: Pearson Education Limited, 2016.&lt;/p></description></item><item><title>Pensamento Econômico Contemporâneo</title><link>https://pvfonseca.github.io/teaching/pec/</link><pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/pec/</guid><description>
 &lt;details class="toc-inpage d-print-none " open>
 &lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
 &lt;nav id="TableOfContents">
@@ -66,75 +135,7 @@
 &lt;p>👉 SNOWDON, B.; VANE, H.R. Modern Macroeconomics: its Origins, Development and Current State. Northampton, MA: Edward Elgar, 2005.&lt;/p>
 &lt;blockquote>
 &lt;p>⚠️ &lt;strong>Bibliografias adicionais serão recomendadas ao longo do curso.&lt;/strong>&lt;/p>
-&lt;/blockquote></description></item><item><title>Métodos Quantitativos em Economia I</title><link>https://pvfonseca.github.io/teaching/metodosquant/</link><pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/metodosquant/</guid><description>
-&lt;details class="toc-inpage d-print-none " open>
-&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
-&lt;nav id="TableOfContents">
-&lt;ul>
-&lt;li>&lt;a href="#ementa">Ementa&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#objetivo">Objetivo&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#programa">Programa&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#avaliação">Avaliação&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#slides-e-notebooks">Slides e Notebooks&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#-bibliografia">📚 Bibliografia&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/nav>
-&lt;/details>
-&lt;h2 id="ementa">Ementa&lt;/h2>
-&lt;p align="justify">Condições de 1ª e 2ª ordens para máximos e mínimos irrestritos. Aplicações econômicas de otimização irrestrita. Condições de 1ª ordem para otimização condicionada com restrições de igualdade e desigualdade. Método dos multiplicadores de Lagrange e de Kuhn Tucker. Condições de 2ª ordem para otimização condicionada com restrições de igualdade e desigualdade. Interpretação dos multiplicadores em problemas de otimização. Teorema do envelope. Funções homogêneas, homotéticas, côncavas e quase côncavas. Aplicações econômicas dos problemas de otimização relacionados à maximização de utilidade e demanda maximização de lucros, custos, ótimo de Pareto e teoremas fundamentais de bem-estar. Programação linear.&lt;/p>
-&lt;h2 id="objetivo">Objetivo&lt;/h2>
-&lt;p align="justify">O objetivo da disciplina é apresentar aos alunos as principais técnicas de otimização estática, bem como suas principais aplicações em Economia. Ao final do curso espera-se que o aluno seja capaz de utilizar o ferramental desenvolvido na disciplina em aplicações à Teoria Econômica (microeconomia, macroeconomia e disciplinas correlatas).&lt;/p>
-&lt;div class="alert alert-note">
-&lt;div>
-&lt;p>As aulas acontecerão na sala 147 ESAG/UDESC às:&lt;/p>
-&lt;ul>
-&lt;li>Terças-feiras das 10:15 às 11:55&lt;/li>
-&lt;li>Quintas-feiras das 08:20 às 10:00&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;/div>
-&lt;h2 id="programa">Programa&lt;/h2>
-&lt;ul>
-&lt;li>Introdução e revisão de conceitos básicos&lt;/li>
-&lt;li>Otimização estática sem restrições&lt;/li>
-&lt;li>Otimização estática com restrições&lt;/li>
-&lt;li>Funções homogêneas e funções homotéticas&lt;/li>
-&lt;li>Concavidade e quase-concavidade&lt;/li>
-&lt;li>Programação linear&lt;/li>
-&lt;/ul>
-&lt;h2 id="avaliação">Avaliação&lt;/h2>
-&lt;div class="alert alert-note">
-&lt;div>
-&lt;ul>
-&lt;li>Atividade avaliativa I (PI) - 30%&lt;/li>
-&lt;li>Atividade avaliativa II (PII) - 30%&lt;/li>
-&lt;li>Atividade avaliativa III (PIII) - 20%&lt;/li>
-&lt;li>Trabalhos adicionais - 20%&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;/div>
-&lt;h2 id="slides-e-notebooks">Slides e Notebooks&lt;/h2>
-&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula01.html" target="_blank"> ▶️ Aula 1: Apresentação da Disciplina &lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula02.html" target="_blank"> ▶️ Aula 2: Revisão de conceitos básicos &lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula03.html" target="_blank"> ▶️ Aula 3: Otimização estática irrestrita (caso univariado) &lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula04.html" target="_blank"> ▶️ Aula 4: Otimização estática irrestrita (funções de duas variáveis reais) &lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula05.html" target="_blank"> ▶️ Aula 5: Otimização estática irrestrita (funções multivariadas) &lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://pvfonseca.github.io/pdf/mqe_aula06.pdf" target="_blank"> ▶️ Aula 6: Otimização estática irrestrita - Aplicações econômicas &lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula07.html" target="_blank"> ▶️ Aula 7: Concavidade e convexidade &lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://pvfonseca.github.io/html/mqe_aula08.html" target="_blank"> ▶️ Aula 8: Otimização estática com restrições de igualdade &lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://pvfonseca.github.io/pdf/mqe_aula09.pdf" target="_blank"> ▶️ Aula 9: Estática comparativa, teorema da função implícita e teorema do envelope &lt;/a>&lt;/p>
-&lt;h2 id="-bibliografia">📚 Bibliografia&lt;/h2>
-&lt;p>CHIANG, A.C.; WAINWRIGHT, K. Matemática para economistas. Rio de Janeiro: Elsevier, 2006.&lt;/p>
-&lt;p>DIXIT, A. Optimization in Economic Theory. 2.ed., Oxford University Press, 1990.&lt;/p>
-&lt;p>HOY, M.; LIVERNOIS, J.; McKENNA, C.; REES, R.; STENGOS, T. Mathematics for Economics. 2.ed., Massachussetts: MIT Press, 2001.&lt;/p>
-&lt;p>FUENTE, A. Mathematical methods and models for economists. Cambridge, UK. New York, NY: Cambridge University Press, 2000.&lt;/p>
-&lt;p>NICHOLSON, W.; SNYDER C. Teoria microeconômica: Princípios básicos e aplicações. Cengage Learning Brasil, 2019. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/#/books/9788522127030/" target="_blank" rel="noopener">app.minhabiblioteca.com.br&lt;/a>&lt;/p>
-&lt;p>SILBERBERG, E.; SUEN, W. The structure of economics: a mathematical analysis. 3rd.ed. Singapore: McGraw-Hill Higher Education, 2001.&lt;/p>
-&lt;p>SIMON, C.P.; BLUME, L. Matemática para economistas. Porto Alegre: Bookman, 2004.&lt;/p>
-&lt;p>STEWART, J. Cálculo – Volume 1. 8.ed. Cengage Learning Brasil, 2017. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/#/books/9788522126859/" target="_blank" rel="noopener">app.minhabiblioteca.com.br&lt;/a>&lt;/p>
-&lt;p>STEWART, J. Cálculo – Volume 2. 8.ed. Cengage Learning Brasil, 2017. Disponível em: &lt;a href="https://app.minhabiblioteca.com.br/#/books/9788522126866/" target="_blank" rel="noopener">app.minhabiblioteca.com.br&lt;/a>&lt;/p>
-&lt;p>SUNDARAM, R.K. A first course in optimization theory. Cambridge University Press, 1996.&lt;/p>
-&lt;p>SYDSÆTER, K.; HAMMOND, P.J.; STRØM, A.; CARVAJAL, A. Essential mathematics for economic analysis. 5th.ed. Harlow, UK: Pearson Education Limited, 2016.&lt;/p></description></item><item><title>Macroeconomia I</title><link>https://pvfonseca.github.io/teaching/macro/</link><pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/macro/</guid><description>
+&lt;/blockquote></description></item><item><title>Macroeconomia I</title><link>https://pvfonseca.github.io/teaching/macro/</link><pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate><guid>https://pvfonseca.github.io/teaching/macro/</guid><description>
 &lt;details class="toc-inpage d-print-none " open>
 &lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
 &lt;nav id="TableOfContents">
