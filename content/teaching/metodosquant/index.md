@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-04-27
+date: 2023-10-18
 draft: false
 image:
   caption: "Source: [MATLAB Optimization Toolbox](https://www.mathworks.com/help/optim/ug/optimization-toolbox-tutorial.html)"
@@ -22,8 +22,8 @@ title: Métodos Quantitativos em Economia I
 
 {{% callout note %}}
 As aulas acontecerão na sala 147 ESAG/UDESC às:
-- Quartas-feiras das 10:15 às 11:55
-- Sextas-feiras das 10:15 às 11:55
+- Terças-feiras das 10:15 às 11:55
+- Quintas-feiras das 08:20 às 10:00
 {{% /callout %}}
 
 ## Programa
@@ -48,7 +48,7 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 {{% staticref "html/mqe_aula01.html" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
 
-{{% staticref "html/mqe_aula02.jl.html" "newtab" %}} ▶️ Aula 2: Revisão de conceitos básicos {{% /staticref %}}
+{{% staticref "html/mqe_aula02.html" "newtab" %}} ▶️ Aula 2: Revisão de conceitos básicos {{% /staticref %}}
 
 {{% staticref "html/mqe_aula03.html" "newtab" %}} ▶️ Aula 3: Otimização estática irrestrita (caso univariado) {{% /staticref %}}
 
@@ -61,6 +61,10 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 {{% staticref "html/mqe_aula07.html" "newtab" %}} ▶️ Aula 7: Concavidade e convexidade {{% /staticref %}}
 
 {{% staticref "html/mqe_aula08.html" "newtab" %}} ▶️ Aula 8: Otimização estática com restrições de igualdade {{% /staticref %}}
+
+{{% staticref "pdf/mqe_aula09.pdf" "newtab" %}} ▶️ Aula 9: Estática comparativa, teorema da função implícita e teorema do envelope {{% /staticref %}}
+
+{{% staticref "html/mqe_aula10.html" "newtab" %}} ▶️ Aula 10: Otimização estática com restrições de igualdade (CSOs) {{% /staticref %}}
 
 ## 📚 Bibliografia
 

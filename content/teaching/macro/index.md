@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-05-16
+date: 2023-10-03
 draft: false
 image:
   caption: "Source: Relatório de Inflação março/2019 - Banco Central do Brasil"
@@ -23,8 +23,8 @@ title: Macroeconomia I
 
 {{% callout note %}}
 As aulas acontecerão na sala 147 ESAG/UDESC às:
-- Terças-feiras das 10:15 às 11:55
-- Quintas-feiras das 08:25 às 10:00
+- Quartas-feiras das 10:15 às 11:55
+- Sextas-feiras das 10:15 às 11:55
 {{% /callout %}}
 
 ## Programa
@@ -58,16 +58,22 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 {{% staticref "pdf/macro_aula06.pdf" "newtab" %}} ▶️ Aula 6: Curva IS e Demanda agregada {{% /staticref %}}
 
-{{% staticref "pdf/macro_aula07.pdf" "newtab" %}} ▶️ Aula 7: Comportamento _forward looking_ e consumo {{% /staticref %}}
+{{% staticref "pdf/macro_aula072.pdf" "newtab" %}} ▶️ Aula 7: Mercados Financeiros {{% /staticref %}}
 
-{{% staticref "pdf/macro_aula08.pdf" "newtab" %}} ▶️ Aula 8: Comportamento _forward looking_ e investimento {{% /staticref %}}
-
-{{% staticref "pdf/macro_aula09.pdf" "newtab" %}} ▶️ Aula 9: Consumo, investimento e curva IS {{% /staticref %}}
+{{% staticref "pdf/macro_aula082.pdf" "newtab" %}} ▶️ Aula 8: Modelo IS-LM {{% /staticref %}}
 
 {{% staticref "pdf/macro_aula10.pdf" "newtab" %}} ▶️ Aula 10: Mercado de trabalho - determinação de salários {{% /staticref %}}
 
 {{% staticref "pdf/macro_aula11.pdf" "newtab" %}} ▶️ Aula 11: Mercado de trabalho - determinação de preços e taxa natural de desemprego {{% /staticref %}}
 
+---
+#### Material Extra
+
+{{% staticref "pdf/macro_aula07.pdf" "newtab" %}} ▶️ Demanda agregada: Comportamento _forward looking_ e consumo {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula08.pdf" "newtab" %}} ▶️ Demanda agregada: Comportamento _forward looking_ e investimento {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula09.pdf" "newtab" %}} ▶️ Demanda agregada: Consumo, investimento e curva IS {{% /staticref %}}
 
 ## 📚 Bibliografia
 ABEL, A.; BERNANKE, B.; CROUSHORE, D. Macroeconomia. 6.ed. Pearson Prentice Hall, 2008. 

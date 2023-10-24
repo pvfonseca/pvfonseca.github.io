@@ -41,9 +41,9 @@ main:
     parent: courses
     url: teaching/metodosquant
     weight: 30
-  - name: Matemática Aplicada
+  - name: Pensamento Econômico Contemporâneo
     parent: courses
-    url: teaching/mtm_aplicada
+    url: teaching/pec
     weight: 40  
   #- name: Pensamento Contemporâneo
   #  parent: courses

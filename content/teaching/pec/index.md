@@ -1,7 +1,7 @@
 ---
 categories: []
-date: 2023-02-15
-draft: true
+date: 2023-10-18
+draft: false
 image:
   caption: "Source: [Wikipedia - History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)"
   focal_point: Smart
@@ -23,7 +23,7 @@ title: Pensamento Econômico Contemporâneo
 
 {{% callout note %}}
 As aulas acontecerão na sala 50 ESAG/UDESC às:
-- Quartas-feiras das 08:20 às 10:00
+- Quintas-feiras das 10:15 às 11:55
 - Sextas-feiras das 08:20 às 10:00
 {{% /callout %}}
 
@@ -40,15 +40,34 @@ As aulas acontecerão na sala 50 ESAG/UDESC às:
 ## Avaliação
 
 {{% callout note %}}
-- Atividade avaliativa I (PI) - 20%
-- Atividade avaliativa II (PII) - 30%
-- Atividade avaliativa III (PIII) - 30%
-- Trabalhos adicionais - 20%
+- Atividade avaliativa I (PI) - 35%
+- Atividade avaliativa II (PII) - 35%
+- Trabalhos adicionais - 30%
 {{% /callout %}}
 
 ## Slides e Notebooks
 
 {{% staticref "pdf/pec_aula01.pdf" "newtab" %}} ▶️ Aula 1: Apresentação da Disciplina {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula02.pdf" "newtab" %}} ▶️ Aula 2: Modelo clássico - Parte I {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula03.pdf" "newtab" %}} ▶️ Aula 3: Modelo clássico - Parte II {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula04.pdf" "newtab" %}} ▶️ Aula 4: Teoria Geral - Antecedentes históricos e principais proposições {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula05.pdf" "newtab" %}} ▶️ Aula 5: Teoria Geral - Mercado de trabalho, lei de Say e TQM {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula06.pdf" "newtab" %}} ▶️ Aula 6: Escola Keynesiana ortodoxa - Modelo IS-LM tradicional {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula07.pdf" "newtab" %}} ▶️ Aula 7: Escola Keynesiana ortodoxa - Equilíbrio de subemprego e efeito Pigou {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula08.pdf" "newtab" %}} ▶️ Aula 8: Escola Keynesiana ortodoxa - Curva de Phillips {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula09.pdf" "newtab" %}} ▶️ Aula 9: Escola monetarista ortodoxa - TQM, demanda por moeda e hipótese da renda permanente {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula10.pdf" "newtab" %}} ▶️ Aula 10: Escola monetarista ortodoxa - Principais proposições e curva de Phillips aumentada por expectativas {{% /staticref %}}
+
+{{% staticref "pdf/pec_aula11.pdf" "newtab" %}} ▶️ Aula 11: Escola novo-clássica {{% /staticref %}}
 
 ## 📚 Bibliografia
 
