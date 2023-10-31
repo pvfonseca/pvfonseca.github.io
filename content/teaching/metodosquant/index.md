@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-10-18
+date: 2023-10-30
 draft: false
 image:
   caption: "Source: [MATLAB Optimization Toolbox](https://www.mathworks.com/help/optim/ug/optimization-toolbox-tutorial.html)"
@@ -65,6 +65,8 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 {{% staticref "pdf/mqe_aula09.pdf" "newtab" %}} ▶️ Aula 9: Estática comparativa, teorema da função implícita e teorema do envelope {{% /staticref %}}
 
 {{% staticref "html/mqe_aula10.html" "newtab" %}} ▶️ Aula 10: Otimização estática com restrições de igualdade (CSOs) {{% /staticref %}}
+
+{{% staticref "html/mqe_aula11.html" "newtab" %}} ▶️ Aula 11: Quase-concavidade e quase-convexidade {{% /staticref %}}
 
 ## 📚 Bibliografia
 
