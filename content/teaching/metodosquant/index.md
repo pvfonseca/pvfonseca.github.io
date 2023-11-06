@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-10-30
+date: 2023-11-06
 draft: false
 image:
   caption: "Source: [MATLAB Optimization Toolbox](https://www.mathworks.com/help/optim/ug/optimization-toolbox-tutorial.html)"
@@ -66,7 +66,7 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 {{% staticref "html/mqe_aula10.html" "newtab" %}} ▶️ Aula 10: Otimização estática com restrições de igualdade (CSOs) {{% /staticref %}}
 
-{{% staticref "html/mqe_aula11.html" "newtab" %}} ▶️ Aula 11: Quase-concavidade e quase-convexidade {{% /staticref %}}
+{{% staticref "html/mqe_aula12.pdf" "newtab" %}} ▶️ Aula 12: Aplicação econômica - problema primal de maximização de utilidade {{% /staticref %}}
 
 ## 📚 Bibliografia
 
