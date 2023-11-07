@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-10-03
+date: 2023-11-07
 draft: false
 image:
   caption: "Source: Relatório de Inflação março/2019 - Banco Central do Brasil"
@@ -58,22 +58,36 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 {{% staticref "pdf/macro_aula06.pdf" "newtab" %}} ▶️ Aula 6: Curva IS e Demanda agregada {{% /staticref %}}
 
-{{% staticref "pdf/macro_aula072.pdf" "newtab" %}} ▶️ Aula 7: Mercados Financeiros {{% /staticref %}}
+{{% staticref "pdf/macro_aula07.pdf" "newtab" %}} ▶️ Aula 7: Mercados Financeiros {{% /staticref %}}
 
-{{% staticref "pdf/macro_aula082.pdf" "newtab" %}} ▶️ Aula 8: Modelo IS-LM {{% /staticref %}}
+{{% staticref "pdf/macro_aula08.pdf" "newtab" %}} ▶️ Aula 8: Modelo IS-LM {{% /staticref %}}
 
-{{% staticref "pdf/macro_aula10.pdf" "newtab" %}} ▶️ Aula 10: Mercado de trabalho - determinação de salários {{% /staticref %}}
+{{% staticref "pdf/macro_aula09.pdf" "newtab" %}} ▶️ Aula 9: Modelo IS-LM tradicional {{% /staticref %}}
 
-{{% staticref "pdf/macro_aula11.pdf" "newtab" %}} ▶️ Aula 11: Mercado de trabalho - determinação de preços e taxa natural de desemprego {{% /staticref %}}
+{{% staticref "pdf/macro_aula10.pdf" "newtab" %}} ▶️ Aula 10: Política monetária no modelo IS-LM tradicional {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula11.pdf" "newtab" %}} ▶️ Aula 11: Mercado de trabalho - determinação de salários {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula12.pdf" "newtab" %}} ▶️ Aula 12: Mercado de trabalho - determinação de preços e taxa natural de desemprego {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula13.pdf" "newtab" %}} ▶️ Aula 13: Curva de Phillips, taxa natural de desemprego e inflação I {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula14.pdf" "newtab" %}} ▶️ Aula 14: Curva de Phillips, taxa natural de desemprego e inflação II {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula15.pdf" "newtab" %}} ▶️ Aula 15: Oferta e demanda agregadas {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula16.pdf" "newtab" %}} ▶️ Aula 16: Modelo de 3 equações e política macroeconômica - Introdução {{% /staticref %}}
+
+{{% staticref "pdf/macro_aula17.pdf" "newtab" %}} ▶️ Aula 17: Modelo de 3 equações e política macroeconômica - Regra de política monetária {{% /staticref %}}
 
 ---
 #### Material Extra
 
-{{% staticref "pdf/macro_aula07.pdf" "newtab" %}} ▶️ Demanda agregada: Comportamento _forward looking_ e consumo {{% /staticref %}}
+{{% staticref "pdf/aux_macro_aula07.pdf" "newtab" %}} ▶️ Demanda agregada: Comportamento _forward looking_ e consumo {{% /staticref %}}
 
-{{% staticref "pdf/macro_aula08.pdf" "newtab" %}} ▶️ Demanda agregada: Comportamento _forward looking_ e investimento {{% /staticref %}}
+{{% staticref "pdf/aux_macro_aula08.pdf" "newtab" %}} ▶️ Demanda agregada: Comportamento _forward looking_ e investimento {{% /staticref %}}
 
-{{% staticref "pdf/macro_aula09.pdf" "newtab" %}} ▶️ Demanda agregada: Consumo, investimento e curva IS {{% /staticref %}}
+{{% staticref "pdf/aux_macro_aula09.pdf" "newtab" %}} ▶️ Demanda agregada: Consumo, investimento e curva IS {{% /staticref %}}
 
 ## 📚 Bibliografia
 ABEL, A.; BERNANKE, B.; CROUSHORE, D. Macroeconomia. 6.ed. Pearson Prentice Hall, 2008. 
