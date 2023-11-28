@@ -70,9 +70,9 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 
 {{% staticref "pdf/mqe_aula12.pdf" "newtab" %}} ▶️ Aula 12: Aplicação econômica - problema primal de maximização de utilidade {{% /staticref %}}
 
-{{% staticref "html/mqe_aula13.html" "newtab" %}} ▶️ Aula 13: Otimização estática com restrições de desigualdade {{% /staticref %}}
+{{% staticref "html/mqe_aula12.html" "newtab" %}} ▶️ Aula 13: Otimização estática com restrições de desigualdade {{% /staticref %}}
 
-{{% staticref "pdf/mqe_aula12.pdf" "newtab" %}} ▶️ Aula 14: Funções homogêneas e funções homotéticas {{% /staticref %}}
+{{% staticref "pdf/mqe_aula14.pdf" "newtab" %}} ▶️ Aula 14: Funções homogêneas e funções homotéticas {{% /staticref %}}
 
 ## 📚 Bibliografia
 
