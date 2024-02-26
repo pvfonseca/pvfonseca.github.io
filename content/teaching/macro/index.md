@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2024-02-26
+date: 2023-11-07
 draft: false
 image:
   caption: "Source: Relatório de Inflação março/2019 - Banco Central do Brasil"
@@ -23,8 +23,8 @@ title: Macroeconomia I
 
 {{% callout note %}}
 As aulas acontecerão na sala 147 ESAG/UDESC às:
-- Terças-feiras das 10:15 às 11:55
-- Quintas-feiras das 10:15 às 11:55
+- Quartas-feiras das 10:15 às 11:55
+- Sextas-feiras das 10:15 às 11:55
 {{% /callout %}}
 
 ## Programa

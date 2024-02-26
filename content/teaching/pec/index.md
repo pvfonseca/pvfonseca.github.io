@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2024-02-26
+date: 2023-11-06
 draft: false
 image:
   caption: "Source: [Wikipedia - History of Macroeconomic Thought](https://en.wikipedia.org/wiki/History_of_macroeconomic_thought)"
@@ -23,7 +23,7 @@ title: Pensamento Econômico Contemporâneo
 
 {{% callout note %}}
 As aulas acontecerão na sala 50 ESAG/UDESC às:
-- Terças-feiras das 08:20 às 10:00
+- Quintas-feiras das 10:15 às 11:55
 - Sextas-feiras das 08:20 às 10:00
 {{% /callout %}}
 
