@@ -20,12 +20,6 @@ title: Métodos Quantitativos em Economia I
 
 <p align="justify">O objetivo da disciplina é apresentar aos alunos as principais técnicas de otimização estática, bem como suas principais aplicações em Economia. Ao final do curso espera-se que o aluno seja capaz de utilizar o ferramental desenvolvido na disciplina em aplicações à Teoria Econômica (microeconomia, macroeconomia e disciplinas correlatas).</p>
 
-{{% callout note %}}
-As aulas acontecerão na sala 147 ESAG/UDESC às:
-- Quartas-feiras das 08:20 às 10:00
-- Sextas-feiras das 10:15 às 11:55
-{{% /callout %}}
-
 ## Programa
 
 - Introdução e revisão de conceitos básicos
@@ -34,6 +28,12 @@ As aulas acontecerão na sala 147 ESAG/UDESC às:
 - Funções homogêneas e funções homotéticas
 - Concavidade e quase-concavidade
 - Programação linear
+
+{{% callout note %}}
+As aulas acontecerão na sala 147 ESAG/UDESC às:
+- Quartas-feiras das 08:20 às 10:00
+- Sextas-feiras das 10:15 às 11:55
+{{% /callout %}}
 
 ## Avaliação
 
