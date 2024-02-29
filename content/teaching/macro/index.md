@@ -1,6 +1,6 @@
 ---
 categories: []
-date: 2023-11-07
+date: 2024-02-29
 draft: false
 image:
   caption: "Source: Relatório de Inflação março/2019 - Banco Central do Brasil"
@@ -17,16 +17,14 @@ title: Macroeconomia I
 
 <p align="justify">Agregados econômicos. Determinação do produto no modelo clássico: mercado de trabalho e curva de oferta agregada. Poupança, investimento e taxa de juros de equilíbrio. Teoria quantitativa da moeda e demanda agregada. Produto de equilíbrio no modelo keynesiano. Mercado de trabalho. Modelo de demanda e oferta agregadas. Curva de Phillips aumentada.</p>
 
-Alou alou
-
 ## Objetivo
 
 <p align="justify">O objetivo da disciplina é apresentar os princípios básicos da teoria macroeconômica e seus diversos domínios de aplicação. O curso se propõe a familiarizar o estudante com os principais modelos macroeconômicos para determinação do produto de equilíbrio a partir da metodologia de equilíbrio geral, onde são tratadas as interações entre vários mercados, bem como os efeitos da ação do governo, em nível agregado. Isso permitirá o conhecimento dos instrumentos de análise e prescrição de políticas macroeconômicas.</p>
 
 {{% callout note %}}
 As aulas acontecerão na sala 147 ESAG/UDESC às:
-- Quartas-feiras das 10:15 às 11:55
-- Sextas-feiras das 10:15 às 11:55
+- Terças-feiras das 10:15 às 11:55
+- Quintas-feiras das 10:15 às 11:55
 {{% /callout %}}
 
 ## Programa
