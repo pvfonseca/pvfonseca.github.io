@@ -1,3 +1,31 @@
+# pvfonseca.github.io
+
+Personal academic website, built with Hugo (Wowchemy Academic theme) and deployed automatically to GitHub Pages via GitHub Actions on every push to `main`.
+
+## Local development
+
+**Prerequisites:** [Go](https://go.dev/dl/) (needed to fetch the theme via Hugo Modules). Hugo itself does **not** need to be installed manually.
+
+This site pins **Hugo Extended 0.108.0**. Newer Hugo releases removed template functions (`getCSV`) that the theme still uses, so builds break with a newer/`latest` Hugo — always use the pinned version below rather than whatever Hugo you may already have installed.
+
+Run the site locally with the wrapper script for your OS — it downloads the pinned Hugo binary into `.hugo-bin/` (gitignored) the first time you run it, then just runs it on every call after that:
+
+```powershell
+# Windows
+.\scripts\hugo.ps1 server
+```
+
+```bash
+# macOS / Linux
+./scripts/hugo.sh server
+```
+
+Then open <http://localhost:1313/>. Build the production output the same way: `.\scripts\hugo.ps1 --minify` (or `./scripts/hugo.sh --minify`).
+
+If the pinned version ever needs to change, update it in three places together: `scripts/hugo.ps1`, `scripts/hugo.sh`, `netlify.toml` (`HUGO_VERSION`), and `.github/workflows/gh-pages.yml` (`hugo-version`) — and confirm the build still succeeds before pushing.
+
+---
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
