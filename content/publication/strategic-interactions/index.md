@@ -32,7 +32,7 @@ selected: true
 title: Strategic fiscal and monetary interactions in the Brazilian economy
 url_code: ''
 url_dataset: ''
-url_pdf: /pdf/strategic_interactions.pdf
+url_pdf: /pdf/a-81603-main.pdf
 url_poster: ''
 url_preprint: ''
 url_project: ''

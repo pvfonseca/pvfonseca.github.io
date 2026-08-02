@@ -161,6 +161,17 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: publications
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        publication_type: '2'
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     id: papers
     content:
       title: Working Papers
@@ -171,6 +182,7 @@ sections:
       filters:
         folders:
           - publication
+        publication_type: '3'
         exclude_featured: true
     design:
       columns: '2'
