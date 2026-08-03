@@ -1,8 +1,8 @@
-PWD C:/Users/Asus/OneDrive/Documents/pvfonseca.github.io/static/uploads
+PWD c:/Users/Asus/OneDrive/Documents/pvfonseca.github.io/static/uploads
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt
-INPUT resume.tex
+INPUT c:/Users/Asus/OneDrive/Documents/pvfonseca.github.io/static/uploads/resume.tex
 OUTPUT resume.log
 INPUT ./russell.cls
 INPUT russell.cls

@@ -1,10 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1785655389.36015 "resume.xdv" "resume.pdf" "resume" 1785655390.21795 0
-  "resume.xdv" 1785655389 104256 4af52545ed80cf970636d6f084d87ddc "xelatex"
+["xdvipdfmx"] 1785717693.9326 "resume.xdv" "resume.pdf" "resume" 1785717694.97733 0
+  "resume.xdv" 1785717693 103408 6943f7dd328f86db8708ce2ffc6a70e5 "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1785655386.9497 "resume.tex" "resume.xdv" "resume" 1785655390.21046 0
+["xelatex"] 1785717691.57806 "c:/Users/Asus/OneDrive/Documents/pvfonseca.github.io/static/uploads/resume.tex" "resume.xdv" "resume" 1785717694.97272 0
+  "c:/Users/Asus/OneDrive/Documents/pvfonseca.github.io/static/uploads/resume.tex" 1785717657 3572 c0ba0364e19ff527c74ce0ba9af8c763 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1718671811 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1718681532 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1718669531 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -179,8 +180,8 @@
   "cv/references.tex" 1785652725 2250 07b252d4c9f135106a1f04a29e6d789f ""
   "cv/skills.tex" 1785652725 1134 ca574e360caf112de84349f29132af7f ""
   "cv/summary.tex" 1785652725 677 0078c353f2a8c362cdfa91154c9531c4 ""
-  "resume.aux" 1785655389 72 e3975f61bf3f389acae1a5409d20f2c6 "xelatex"
-  "resume.tex" 1785654679 3623 845eba4e6033268ce3d06a04417aa5c1 ""
+  "resume.aux" 1785717693 72 e3975f61bf3f389acae1a5409d20f2c6 "xelatex"
+  "resume.tex" 1785717657 3572 c0ba0364e19ff527c74ce0ba9af8c763 ""
   "russell.cls" 1785655371 29169 03cba4f2c762c9ea2665ba8bc6882815 ""
   (generated)
   "resume.aux"
