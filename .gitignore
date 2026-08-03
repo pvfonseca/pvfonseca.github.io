@@ -11,3 +11,8 @@ go.sum
 
 # Pinned Hugo binary downloaded by scripts/hugo.ps1 / scripts/hugo.sh
 .hugo-bin/
+
+# LaTeX intermediate build files (xelatex's own binary intermediates, not
+# needed once resume.pdf is compiled)
+*.xdv
+xelatex*.fls
