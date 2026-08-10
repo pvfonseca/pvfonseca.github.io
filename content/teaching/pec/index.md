@@ -22,9 +22,9 @@ title: Pensamento Econômico Contemporâneo
 <p align="justify">O objetivo da disciplina é abordar as principais correntes do pensamento econômico contemporâneo, enfatizando seu desenvolvimento em contextos históricos com problemáticas específicas e analisando as contribuições metodológicas destas escolas ao pensamento atual.</p>
 
 {{% callout note %}}
-As aulas acontecerão na sala 50 ESAG/UDESC às:
-- Quintas-feiras das 10:15 às 11:55
-- Sextas-feiras das 08:20 às 10:00
+As aulas acontecerão na sala 004 ESAG/UDESC às:
+- Terças-feiras das 10:15 às 11:55
+- Quintas-feiras das 08:20 às 10:00
 {{% /callout %}}
 
 ## Programa
